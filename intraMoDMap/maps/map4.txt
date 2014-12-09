@@ -1,0 +1,4578 @@
+234,30,10,201,21,12
+blue,lime,red,cyan,purple,orange
+7
+Index,Acc,Name,Length,Fragment,GenID,Link
+blue,lime,red,cyan,purple,orange
+H.sapiens (234),E.coli (30),S.cerevisiae (10),A.thaliana (201),P.falciparum (21),P.furiosus (12)
+-0.0908532
+-0.8376
+1
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+1 of 234
+224589813
+NC_000021.8
+0.244166
+-0.806247
+2
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+2 of 234
+224589813
+NC_000021.8
+0.376949
+-0.736051
+3
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+3 of 234
+224589813
+NC_000021.8
+0.0468805
+-0.887103
+4
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+4 of 234
+224589813
+NC_000021.8
+-0.0125829
+-0.918837
+5
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+5 of 234
+224589813
+NC_000021.8
+-0.130967
+-0.936312
+6
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+6 of 234
+224589813
+NC_000021.8
+0.0817317
+-0.534485
+7
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+7 of 234
+224589813
+NC_000021.8
+0.121092
+-0.73109
+8
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+8 of 234
+224589813
+NC_000021.8
+0.145352
+-0.926181
+9
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+9 of 234
+224589813
+NC_000021.8
+0.291923
+-0.848254
+10
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+10 of 234
+224589813
+NC_000021.8
+-0.0190004
+-0.931422
+11
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+11 of 234
+224589813
+NC_000021.8
+-0.0364365
+-0.943209
+12
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+12 of 234
+224589813
+NC_000021.8
+0.0990216
+-0.936573
+13
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+13 of 234
+224589813
+NC_000021.8
+-0.0327397
+-0.911987
+14
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+14 of 234
+224589813
+NC_000021.8
+0.236892
+-0.754106
+15
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+15 of 234
+224589813
+NC_000021.8
+0.275421
+-0.688455
+16
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+16 of 234
+224589813
+NC_000021.8
+0.313793
+-0.78016
+17
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+17 of 234
+224589813
+NC_000021.8
+-0.0317123
+-0.91697
+18
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+18 of 234
+224589813
+NC_000021.8
+-0.0565743
+-0.90088
+19
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+19 of 234
+224589813
+NC_000021.8
+-0.0788589
+-0.885308
+20
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+20 of 234
+224589813
+NC_000021.8
+-0.0552537
+-0.893225
+21
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+21 of 234
+224589813
+NC_000021.8
+-0.0545329
+-0.894248
+22
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+22 of 234
+224589813
+NC_000021.8
+0.0393966
+-0.867838
+23
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+23 of 234
+224589813
+NC_000021.8
+-0.0437191
+-0.821943
+24
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+24 of 234
+224589813
+NC_000021.8
+0.10875
+-0.859054
+25
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+25 of 234
+224589813
+NC_000021.8
+0.0139381
+-0.858004
+26
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+26 of 234
+224589813
+NC_000021.8
+-0.0133623
+-0.816209
+27
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+27 of 234
+224589813
+NC_000021.8
+0.
+-0.897274
+28
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+28 of 234
+224589813
+NC_000021.8
+-0.120697
+-0.89105
+29
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+29 of 234
+224589813
+NC_000021.8
+-0.058876
+-0.896521
+30
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+30 of 234
+224589813
+NC_000021.8
+-0.0877884
+-0.884498
+31
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+31 of 234
+224589813
+NC_000021.8
+-0.162179
+-0.930665
+32
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+32 of 234
+224589813
+NC_000021.8
+-0.138457
+-0.928572
+33
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+33 of 234
+224589813
+NC_000021.8
+-0.0872568
+-0.955167
+34
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+34 of 234
+224589813
+NC_000021.8
+-0.121396
+-0.912175
+35
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+35 of 234
+224589813
+NC_000021.8
+-0.126481
+-0.88275
+36
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+36 of 234
+224589813
+NC_000021.8
+-0.131174
+-0.896232
+37
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+37 of 234
+224589813
+NC_000021.8
+0.00384224
+-0.832367
+38
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+38 of 234
+224589813
+NC_000021.8
+0.115351
+-0.79935
+39
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+39 of 234
+224589813
+NC_000021.8
+0.319207
+-0.908792
+40
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+40 of 234
+224589813
+NC_000021.8
+0.157959
+-0.900142
+41
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+41 of 234
+224589813
+NC_000021.8
+0.19006
+-0.862211
+42
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+42 of 234
+224589813
+NC_000021.8
+0.116469
+-0.915956
+43
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+43 of 234
+224589813
+NC_000021.8
+-0.0305267
+-0.862731
+44
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+44 of 234
+224589813
+NC_000021.8
+-0.086263
+-0.910013
+45
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+45 of 234
+224589813
+NC_000021.8
+-0.165175
+-0.930144
+46
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+46 of 234
+224589813
+NC_000021.8
+-0.136433
+-0.907881
+47
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+47 of 234
+224589813
+NC_000021.8
+-0.195189
+-0.924381
+48
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+48 of 234
+224589813
+NC_000021.8
+-0.0590017
+-0.877436
+49
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+49 of 234
+224589813
+NC_000021.8
+-0.183386
+-0.915417
+50
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+50 of 234
+224589813
+NC_000021.8
+-0.0818734
+-0.929448
+51
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+51 of 234
+224589813
+NC_000021.8
+-0.204864
+-0.929071
+52
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+52 of 234
+224589813
+NC_000021.8
+-0.171515
+-0.969163
+53
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+53 of 234
+224589813
+NC_000021.8
+-0.13937
+-0.908149
+54
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+54 of 234
+224589813
+NC_000021.8
+-0.195214
+-0.936769
+55
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+55 of 234
+224589813
+NC_000021.8
+-0.18879
+-0.952071
+56
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+56 of 234
+224589813
+NC_000021.8
+-0.117021
+-0.940379
+57
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+57 of 234
+224589813
+NC_000021.8
+-0.149384
+-0.955175
+58
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+58 of 234
+224589813
+NC_000021.8
+-0.187281
+-0.960832
+59
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+59 of 234
+224589813
+NC_000021.8
+-0.0936426
+-0.896573
+60
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+60 of 234
+224589813
+NC_000021.8
+-0.135977
+-0.96712
+61
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+61 of 234
+224589813
+NC_000021.8
+-0.0629442
+-0.892966
+62
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+62 of 234
+224589813
+NC_000021.8
+-0.144078
+-0.928697
+63
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+63 of 234
+224589813
+NC_000021.8
+-0.0838284
+-0.938996
+64
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+64 of 234
+224589813
+NC_000021.8
+-0.202833
+-0.949487
+65
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+65 of 234
+224589813
+NC_000021.8
+-0.178601
+-0.972825
+66
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+66 of 234
+224589813
+NC_000021.8
+-0.229932
+-0.974378
+67
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+67 of 234
+224589813
+NC_000021.8
+-0.193387
+-0.898682
+68
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+68 of 234
+224589813
+NC_000021.8
+-0.141661
+-0.919225
+69
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+69 of 234
+224589813
+NC_000021.8
+-0.0721669
+-0.930622
+70
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+70 of 234
+224589813
+NC_000021.8
+-0.182068
+-0.914403
+71
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+71 of 234
+224589813
+NC_000021.8
+-0.220955
+-0.926599
+72
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+72 of 234
+224589813
+NC_000021.8
+-0.130497
+-0.973467
+73
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+73 of 234
+224589813
+NC_000021.8
+-0.0859692
+-1.
+74
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+74 of 234
+224589813
+NC_000021.8
+-0.104904
+-0.996511
+75
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+75 of 234
+224589813
+NC_000021.8
+-0.137513
+-0.96767
+76
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+76 of 234
+224589813
+NC_000021.8
+-0.18439
+-0.945335
+77
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+77 of 234
+224589813
+NC_000021.8
+-0.236094
+-0.963974
+78
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+78 of 234
+224589813
+NC_000021.8
+-0.161275
+-0.948134
+79
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+79 of 234
+224589813
+NC_000021.8
+-0.186468
+-0.964423
+80
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+80 of 234
+224589813
+NC_000021.8
+-0.169588
+-0.977865
+81
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+81 of 234
+224589813
+NC_000021.8
+0.0146752
+-0.967373
+82
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+82 of 234
+224589813
+NC_000021.8
+0.0524999
+-0.913508
+83
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+83 of 234
+224589813
+NC_000021.8
+-0.15669
+-0.93356
+84
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+84 of 234
+224589813
+NC_000021.8
+-0.177216
+-0.966355
+85
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+85 of 234
+224589813
+NC_000021.8
+-0.175394
+-0.944509
+86
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+86 of 234
+224589813
+NC_000021.8
+-0.125578
+-0.960986
+87
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+87 of 234
+224589813
+NC_000021.8
+-0.131397
+-0.948684
+88
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+88 of 234
+224589813
+NC_000021.8
+-0.122944
+-0.942953
+89
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+89 of 234
+224589813
+NC_000021.8
+-0.0275777
+-0.941596
+90
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+90 of 234
+224589813
+NC_000021.8
+-0.0476043
+-0.917633
+91
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+91 of 234
+224589813
+NC_000021.8
+-0.123649
+-0.917445
+92
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+92 of 234
+224589813
+NC_000021.8
+-0.0053326
+-0.861567
+93
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+93 of 234
+224589813
+NC_000021.8
+0.122636
+-0.871647
+94
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+94 of 234
+224589813
+NC_000021.8
+0.14243
+-0.917684
+95
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+95 of 234
+224589813
+NC_000021.8
+0.293687
+-0.85653
+96
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+96 of 234
+224589813
+NC_000021.8
+0.158482
+-0.859781
+97
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+97 of 234
+224589813
+NC_000021.8
+0.233988
+-0.861848
+98
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+98 of 234
+224589813
+NC_000021.8
+0.0759534
+-0.926471
+99
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+99 of 234
+224589813
+NC_000021.8
+0.065362
+-0.824563
+100
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+100 of 234
+224589813
+NC_000021.8
+-0.0601514
+-0.861229
+101
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+101 of 234
+224589813
+NC_000021.8
+0.0566784
+-0.878592
+102
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+102 of 234
+224589813
+NC_000021.8
+0.0163237
+-0.770098
+103
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+103 of 234
+224589813
+NC_000021.8
+-0.0363973
+-0.87959
+104
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+104 of 234
+224589813
+NC_000021.8
+-0.112692
+-0.924219
+105
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+105 of 234
+224589813
+NC_000021.8
+-0.066802
+-0.903307
+106
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+106 of 234
+224589813
+NC_000021.8
+-0.0841876
+-0.929181
+107
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+107 of 234
+224589813
+NC_000021.8
+-0.119502
+-0.898161
+108
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+108 of 234
+224589813
+NC_000021.8
+-0.0436699
+-0.908854
+109
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+109 of 234
+224589813
+NC_000021.8
+-0.0386849
+-0.936102
+110
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+110 of 234
+224589813
+NC_000021.8
+-0.104527
+-0.903271
+111
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+111 of 234
+224589813
+NC_000021.8
+-0.0959832
+-0.866701
+112
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+112 of 234
+224589813
+NC_000021.8
+-0.0157649
+-0.887803
+113
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+113 of 234
+224589813
+NC_000021.8
+0.00862953
+-0.876546
+114
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+114 of 234
+224589813
+NC_000021.8
+0.115656
+-0.835361
+115
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+115 of 234
+224589813
+NC_000021.8
+0.115459
+-0.901261
+116
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+116 of 234
+224589813
+NC_000021.8
+0.166322
+-0.893557
+117
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+117 of 234
+224589813
+NC_000021.8
+0.233189
+-0.889564
+118
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+118 of 234
+224589813
+NC_000021.8
+0.181008
+-0.846967
+119
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+119 of 234
+224589813
+NC_000021.8
+0.197422
+-0.867204
+120
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+120 of 234
+224589813
+NC_000021.8
+0.0742065
+-0.851284
+121
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+121 of 234
+224589813
+NC_000021.8
+0.074194
+-0.87114
+122
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+122 of 234
+224589813
+NC_000021.8
+-0.0647439
+-0.84717
+123
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+123 of 234
+224589813
+NC_000021.8
+-0.048751
+-0.882081
+124
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+124 of 234
+224589813
+NC_000021.8
+0.
+-0.8902
+125
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+125 of 234
+224589813
+NC_000021.8
+-0.0538637
+-0.86453
+126
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+126 of 234
+224589813
+NC_000021.8
+-0.101543
+-0.930518
+127
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+127 of 234
+224589813
+NC_000021.8
+-0.0520798
+-0.906382
+128
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+128 of 234
+224589813
+NC_000021.8
+0.0129166
+-0.897712
+129
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+129 of 234
+224589813
+NC_000021.8
+0.15812
+-0.876926
+130
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+130 of 234
+224589813
+NC_000021.8
+0.342442
+-0.808475
+131
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+131 of 234
+224589813
+NC_000021.8
+0.378168
+-0.806411
+132
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+132 of 234
+224589813
+NC_000021.8
+0.488029
+-0.803644
+133
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+133 of 234
+224589813
+NC_000021.8
+0.537908
+-0.794516
+134
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+134 of 234
+224589813
+NC_000021.8
+0.30063
+-0.87103
+135
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+135 of 234
+224589813
+NC_000021.8
+0.474437
+-0.78787
+136
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+136 of 234
+224589813
+NC_000021.8
+0.489996
+-0.739747
+137
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+137 of 234
+224589813
+NC_000021.8
+0.344821
+-0.82169
+138
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+138 of 234
+224589813
+NC_000021.8
+0.499736
+-0.712735
+139
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+139 of 234
+224589813
+NC_000021.8
+0.60094
+-0.768404
+140
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+140 of 234
+224589813
+NC_000021.8
+0.279769
+-0.8079
+141
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+141 of 234
+224589813
+NC_000021.8
+0.215001
+-0.893263
+142
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+142 of 234
+224589813
+NC_000021.8
+0.366798
+-0.782459
+143
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+143 of 234
+224589813
+NC_000021.8
+0.550276
+-0.651596
+144
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+144 of 234
+224589813
+NC_000021.8
+0.466983
+-0.785502
+145
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+145 of 234
+224589813
+NC_000021.8
+0.511134
+-0.801358
+146
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+146 of 234
+224589813
+NC_000021.8
+0.295993
+-0.842866
+147
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+147 of 234
+224589813
+NC_000021.8
+0.232793
+-0.927163
+148
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+148 of 234
+224589813
+NC_000021.8
+0.39696
+-0.822866
+149
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+149 of 234
+224589813
+NC_000021.8
+0.464697
+-0.786163
+150
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+150 of 234
+224589813
+NC_000021.8
+0.273869
+-0.737961
+151
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+151 of 234
+224589813
+NC_000021.8
+0.372441
+-0.760868
+152
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+152 of 234
+224589813
+NC_000021.8
+0.49042
+-0.775235
+153
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+153 of 234
+224589813
+NC_000021.8
+0.420636
+-0.724574
+154
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+154 of 234
+224589813
+NC_000021.8
+0.439034
+-0.740645
+155
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+155 of 234
+224589813
+NC_000021.8
+0.350685
+-0.691438
+156
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+156 of 234
+224589813
+NC_000021.8
+0.312857
+-0.720645
+157
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+157 of 234
+224589813
+NC_000021.8
+0.182387
+-0.77793
+158
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+158 of 234
+224589813
+NC_000021.8
+0.157795
+-0.783727
+159
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+159 of 234
+224589813
+NC_000021.8
+0.175877
+-0.787799
+160
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+160 of 234
+224589813
+NC_000021.8
+0.154902
+-0.76444
+161
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+161 of 234
+224589813
+NC_000021.8
+0.279321
+-0.823232
+162
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+162 of 234
+224589813
+NC_000021.8
+0.331235
+-0.799363
+163
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+163 of 234
+224589813
+NC_000021.8
+0.487793
+-0.751208
+164
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+164 of 234
+224589813
+NC_000021.8
+0.62331
+-0.747983
+165
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+165 of 234
+224589813
+NC_000021.8
+0.480997
+-0.807537
+166
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+166 of 234
+224589813
+NC_000021.8
+0.582497
+-0.729149
+167
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+167 of 234
+224589813
+NC_000021.8
+0.607602
+-0.663393
+168
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+168 of 234
+224589813
+NC_000021.8
+0.437875
+-0.760816
+169
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+169 of 234
+224589813
+NC_000021.8
+0.496685
+-0.77384
+170
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+170 of 234
+224589813
+NC_000021.8
+0.16637
+-0.890516
+171
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+171 of 234
+224589813
+NC_000021.8
+0.385908
+-0.841284
+172
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+172 of 234
+224589813
+NC_000021.8
+0.138384
+-0.858387
+173
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+173 of 234
+224589813
+NC_000021.8
+0.340139
+-0.763008
+174
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+174 of 234
+224589813
+NC_000021.8
+0.411792
+-0.672292
+175
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+175 of 234
+224589813
+NC_000021.8
+0.297637
+-0.721451
+176
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+176 of 234
+224589813
+NC_000021.8
+0.305032
+-0.78432
+177
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+177 of 234
+224589813
+NC_000021.8
+0.140803
+-0.784762
+178
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+178 of 234
+224589813
+NC_000021.8
+0.280574
+-0.692499
+179
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+179 of 234
+224589813
+NC_000021.8
+0.257296
+-0.783856
+180
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+180 of 234
+224589813
+NC_000021.8
+0.304932
+-0.74576
+181
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+181 of 234
+224589813
+NC_000021.8
+0.411264
+-0.757787
+182
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+182 of 234
+224589813
+NC_000021.8
+0.418771
+-0.691024
+183
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+183 of 234
+224589813
+NC_000021.8
+0.523141
+-0.647772
+184
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+184 of 234
+224589813
+NC_000021.8
+0.126229
+-0.896233
+185
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+185 of 234
+224589813
+NC_000021.8
+0.3829
+-0.837695
+186
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+186 of 234
+224589813
+NC_000021.8
+0.311862
+-0.833533
+187
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+187 of 234
+224589813
+NC_000021.8
+0.397358
+-0.708781
+188
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+188 of 234
+224589813
+NC_000021.8
+0.314753
+-0.710916
+189
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+189 of 234
+224589813
+NC_000021.8
+0.419456
+-0.71656
+190
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+190 of 234
+224589813
+NC_000021.8
+0.317357
+-0.711632
+191
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+191 of 234
+224589813
+NC_000021.8
+0.201485
+-0.824456
+192
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+192 of 234
+224589813
+NC_000021.8
+0.113664
+-0.871395
+193
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+193 of 234
+224589813
+NC_000021.8
+0.170881
+-0.867638
+194
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+194 of 234
+224589813
+NC_000021.8
+0.250319
+-0.808213
+195
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+195 of 234
+224589813
+NC_000021.8
+0.310451
+-0.790408
+196
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+196 of 234
+224589813
+NC_000021.8
+0.237849
+-0.796728
+197
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+197 of 234
+224589813
+NC_000021.8
+0.536607
+-0.6695
+198
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+198 of 234
+224589813
+NC_000021.8
+0.431798
+-0.665402
+199
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+199 of 234
+224589813
+NC_000021.8
+0.621319
+-0.664743
+200
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+200 of 234
+224589813
+NC_000021.8
+0.638991
+-0.671253
+201
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+201 of 234
+224589813
+NC_000021.8
+0.696619
+-0.50015
+202
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+202 of 234
+224589813
+NC_000021.8
+0.634946
+-0.621139
+203
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+203 of 234
+224589813
+NC_000021.8
+0.726282
+-0.515155
+204
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+204 of 234
+224589813
+NC_000021.8
+0.699191
+-0.575791
+205
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+205 of 234
+224589813
+NC_000021.8
+0.650979
+-0.569868
+206
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+206 of 234
+224589813
+NC_000021.8
+0.594059
+-0.528476
+207
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+207 of 234
+224589813
+NC_000021.8
+0.728869
+-0.566568
+208
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+208 of 234
+224589813
+NC_000021.8
+0.78675
+-0.615361
+209
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+209 of 234
+224589813
+NC_000021.8
+0.627624
+-0.713286
+210
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+210 of 234
+224589813
+NC_000021.8
+0.821118
+-0.552406
+211
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+211 of 234
+224589813
+NC_000021.8
+0.889919
+-0.363007
+212
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+212 of 234
+224589813
+NC_000021.8
+0.860723
+-0.469909
+213
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+213 of 234
+224589813
+NC_000021.8
+0.421395
+-0.768472
+214
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+214 of 234
+224589813
+NC_000021.8
+0.9695
+-0.507787
+215
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+215 of 234
+224589813
+NC_000021.8
+0.809745
+-0.560862
+216
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+216 of 234
+224589813
+NC_000021.8
+0.68272
+-0.599614
+217
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+217 of 234
+224589813
+NC_000021.8
+1.
+-0.475017
+218
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+218 of 234
+224589813
+NC_000021.8
+0.957615
+-0.418291
+219
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+219 of 234
+224589813
+NC_000021.8
+0.697355
+-0.464794
+220
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+220 of 234
+224589813
+NC_000021.8
+0.597632
+-0.609555
+221
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+221 of 234
+224589813
+NC_000021.8
+0.739317
+-0.521163
+222
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+222 of 234
+224589813
+NC_000021.8
+0.931447
+-0.366971
+223
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+223 of 234
+224589813
+NC_000021.8
+0.46958
+-0.603026
+224
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+224 of 234
+224589813
+NC_000021.8
+0.671521
+-0.505586
+225
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+225 of 234
+224589813
+NC_000021.8
+0.923517
+-0.309548
+226
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+226 of 234
+224589813
+NC_000021.8
+0.825946
+-0.439604
+227
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+227 of 234
+224589813
+NC_000021.8
+0.274149
+-0.796397
+228
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+228 of 234
+224589813
+NC_000021.8
+0.71473
+-0.458342
+229
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+229 of 234
+224589813
+NC_000021.8
+0.741081
+-0.448245
+230
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+230 of 234
+224589813
+NC_000021.8
+0.809342
+-0.48101
+231
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+231 of 234
+224589813
+NC_000021.8
+0.794535
+-0.628195
+232
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+232 of 234
+224589813
+NC_000021.8
+0.551154
+-0.702866
+233
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+233 of 234
+224589813
+NC_000021.8
+0.40159
+-0.711919
+234
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+234 of 234
+224589813
+NC_000021.8
+0.266964
+0.989817
+235
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+1 of 30
+556503834
+NC_000913.3
+0.248779
+0.88044
+236
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+2 of 30
+556503834
+NC_000913.3
+0.224249
+0.894951
+237
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+3 of 30
+556503834
+NC_000913.3
+0.197555
+0.84733
+238
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+4 of 30
+556503834
+NC_000913.3
+0.236312
+0.909458
+239
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+5 of 30
+556503834
+NC_000913.3
+0.222582
+0.939772
+240
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+6 of 30
+556503834
+NC_000913.3
+0.246059
+0.9039
+241
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+7 of 30
+556503834
+NC_000913.3
+0.198718
+0.855824
+242
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+8 of 30
+556503834
+NC_000913.3
+0.156075
+0.747619
+243
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+9 of 30
+556503834
+NC_000913.3
+0.189514
+0.823065
+244
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+10 of 30
+556503834
+NC_000913.3
+0.126904
+0.690178
+245
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+11 of 30
+556503834
+NC_000913.3
+0.206156
+0.849253
+246
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+12 of 30
+556503834
+NC_000913.3
+0.182613
+0.832424
+247
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+13 of 30
+556503834
+NC_000913.3
+0.195811
+0.789304
+248
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+14 of 30
+556503834
+NC_000913.3
+0.192431
+0.862375
+249
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+15 of 30
+556503834
+NC_000913.3
+0.2369
+0.936406
+250
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+16 of 30
+556503834
+NC_000913.3
+0.184311
+0.815095
+251
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+17 of 30
+556503834
+NC_000913.3
+0.266835
+1.
+252
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+18 of 30
+556503834
+NC_000913.3
+0.196026
+0.829539
+253
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+19 of 30
+556503834
+NC_000913.3
+0.170294
+0.813005
+254
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+20 of 30
+556503834
+NC_000913.3
+0.236813
+0.954027
+255
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+21 of 30
+556503834
+NC_000913.3
+0.202326
+0.891682
+256
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+22 of 30
+556503834
+NC_000913.3
+0.230005
+0.903009
+257
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+23 of 30
+556503834
+NC_000913.3
+0.243986
+0.962756
+258
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+24 of 30
+556503834
+NC_000913.3
+0.21164
+0.872732
+259
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+25 of 30
+556503834
+NC_000913.3
+0.179259
+0.835701
+260
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+26 of 30
+556503834
+NC_000913.3
+0.253551
+0.936312
+261
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+27 of 30
+556503834
+NC_000913.3
+0.250286
+0.955617
+262
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+28 of 30
+556503834
+NC_000913.3
+0.225586
+0.922596
+263
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+29 of 30
+556503834
+NC_000913.3
+0.201156
+0.887568
+264
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655, complete genome
+150000
+30 of 30
+556503834
+NC_000913.3
+-0.275044
+-0.160236
+265
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+1 of 10
+330443520
+NC_001136.10
+-0.294806
+-0.157171
+266
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+2 of 10
+330443520
+NC_001136.10
+-0.31446
+-0.206083
+267
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+3 of 10
+330443520
+NC_001136.10
+-0.341437
+-0.203435
+268
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+4 of 10
+330443520
+NC_001136.10
+-0.329764
+-0.19265
+269
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+5 of 10
+330443520
+NC_001136.10
+-0.331483
+-0.172159
+270
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+6 of 10
+330443520
+NC_001136.10
+-0.330196
+-0.203723
+271
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+7 of 10
+330443520
+NC_001136.10
+-0.325495
+-0.20552
+272
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+8 of 10
+330443520
+NC_001136.10
+-0.30685
+-0.176207
+273
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+9 of 10
+330443520
+NC_001136.10
+-0.315147
+-0.178373
+274
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV, complete sequence
+150000
+10 of 10
+330443520
+NC_001136.10
+-0.447657
+-0.311842
+275
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+1 of 201
+240254421
+NC_003070.9
+-0.370535
+-0.248497
+276
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+2 of 201
+240254421
+NC_003070.9
+-0.247709
+-0.230895
+277
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+3 of 201
+240254421
+NC_003070.9
+-0.476231
+-0.303987
+278
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+4 of 201
+240254421
+NC_003070.9
+-0.389526
+-0.306516
+279
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+5 of 201
+240254421
+NC_003070.9
+-0.349572
+-0.257033
+280
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+6 of 201
+240254421
+NC_003070.9
+-0.404879
+-0.299127
+281
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+7 of 201
+240254421
+NC_003070.9
+-0.394207
+-0.303067
+282
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+8 of 201
+240254421
+NC_003070.9
+-0.404462
+-0.313189
+283
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+9 of 201
+240254421
+NC_003070.9
+-0.343144
+-0.261255
+284
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+10 of 201
+240254421
+NC_003070.9
+-0.435631
+-0.358761
+285
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+11 of 201
+240254421
+NC_003070.9
+-0.346338
+-0.288697
+286
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+12 of 201
+240254421
+NC_003070.9
+-0.382727
+-0.336093
+287
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+13 of 201
+240254421
+NC_003070.9
+-0.294587
+-0.260455
+288
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+14 of 201
+240254421
+NC_003070.9
+-0.35362
+-0.228415
+289
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+15 of 201
+240254421
+NC_003070.9
+-0.357481
+-0.279971
+290
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+16 of 201
+240254421
+NC_003070.9
+-0.298824
+-0.268232
+291
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+17 of 201
+240254421
+NC_003070.9
+-0.367298
+-0.33423
+292
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+18 of 201
+240254421
+NC_003070.9
+-0.32037
+-0.300217
+293
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+19 of 201
+240254421
+NC_003070.9
+-0.386349
+-0.323914
+294
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+20 of 201
+240254421
+NC_003070.9
+-0.344801
+-0.314689
+295
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+21 of 201
+240254421
+NC_003070.9
+-0.341976
+-0.295102
+296
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+22 of 201
+240254421
+NC_003070.9
+-0.352909
+-0.307032
+297
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+23 of 201
+240254421
+NC_003070.9
+-0.449702
+-0.373506
+298
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+24 of 201
+240254421
+NC_003070.9
+-0.337616
+-0.305015
+299
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+25 of 201
+240254421
+NC_003070.9
+-0.421382
+-0.318637
+300
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+26 of 201
+240254421
+NC_003070.9
+-0.444977
+-0.312141
+301
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+27 of 201
+240254421
+NC_003070.9
+-0.506709
+-0.384825
+302
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+28 of 201
+240254421
+NC_003070.9
+-0.463172
+-0.337849
+303
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+29 of 201
+240254421
+NC_003070.9
+-0.396621
+-0.284644
+304
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+30 of 201
+240254421
+NC_003070.9
+-0.520047
+-0.394854
+305
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+31 of 201
+240254421
+NC_003070.9
+-0.487257
+-0.404664
+306
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+32 of 201
+240254421
+NC_003070.9
+-0.444823
+-0.325299
+307
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+33 of 201
+240254421
+NC_003070.9
+-0.434692
+-0.349509
+308
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+34 of 201
+240254421
+NC_003070.9
+-0.30729
+-0.279645
+309
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+35 of 201
+240254421
+NC_003070.9
+-0.363099
+-0.310447
+310
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+36 of 201
+240254421
+NC_003070.9
+-0.274705
+-0.201183
+311
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+37 of 201
+240254421
+NC_003070.9
+-0.359849
+-0.301218
+312
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+38 of 201
+240254421
+NC_003070.9
+-0.361404
+-0.293147
+313
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+39 of 201
+240254421
+NC_003070.9
+-0.366764
+-0.284354
+314
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+40 of 201
+240254421
+NC_003070.9
+-0.330919
+-0.297545
+315
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+41 of 201
+240254421
+NC_003070.9
+-0.404875
+-0.312835
+316
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+42 of 201
+240254421
+NC_003070.9
+-0.388132
+-0.318412
+317
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+43 of 201
+240254421
+NC_003070.9
+-0.488586
+-0.399494
+318
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+44 of 201
+240254421
+NC_003070.9
+-0.467612
+-0.324769
+319
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+45 of 201
+240254421
+NC_003070.9
+-0.448027
+-0.347033
+320
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+46 of 201
+240254421
+NC_003070.9
+-0.433796
+-0.324318
+321
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+47 of 201
+240254421
+NC_003070.9
+-0.391692
+-0.257486
+322
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+48 of 201
+240254421
+NC_003070.9
+-0.412926
+-0.343447
+323
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+49 of 201
+240254421
+NC_003070.9
+-0.417905
+-0.344797
+324
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+50 of 201
+240254421
+NC_003070.9
+-0.373267
+-0.285637
+325
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+51 of 201
+240254421
+NC_003070.9
+-0.510302
+-0.415647
+326
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+52 of 201
+240254421
+NC_003070.9
+-0.552788
+-0.418586
+327
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+53 of 201
+240254421
+NC_003070.9
+-0.433973
+-0.337541
+328
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+54 of 201
+240254421
+NC_003070.9
+-0.493221
+-0.363331
+329
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+55 of 201
+240254421
+NC_003070.9
+-0.497094
+-0.379326
+330
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+56 of 201
+240254421
+NC_003070.9
+-0.46002
+-0.369542
+331
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+57 of 201
+240254421
+NC_003070.9
+-0.401341
+-0.355887
+332
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+58 of 201
+240254421
+NC_003070.9
+-0.383364
+-0.320651
+333
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+59 of 201
+240254421
+NC_003070.9
+-0.421763
+-0.363661
+334
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+60 of 201
+240254421
+NC_003070.9
+-0.371771
+-0.338376
+335
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+61 of 201
+240254421
+NC_003070.9
+-0.47328
+-0.399943
+336
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+62 of 201
+240254421
+NC_003070.9
+-0.496426
+-0.394377
+337
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+63 of 201
+240254421
+NC_003070.9
+-0.376397
+-0.353928
+338
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+64 of 201
+240254421
+NC_003070.9
+-0.341332
+-0.317439
+339
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+65 of 201
+240254421
+NC_003070.9
+-0.533323
+-0.451333
+340
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+66 of 201
+240254421
+NC_003070.9
+-0.48689
+-0.4128
+341
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+67 of 201
+240254421
+NC_003070.9
+-0.510333
+-0.439304
+342
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+68 of 201
+240254421
+NC_003070.9
+-0.46097
+-0.385292
+343
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+69 of 201
+240254421
+NC_003070.9
+-0.387964
+-0.335702
+344
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+70 of 201
+240254421
+NC_003070.9
+-0.589329
+-0.466408
+345
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+71 of 201
+240254421
+NC_003070.9
+-0.429813
+-0.400473
+346
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+72 of 201
+240254421
+NC_003070.9
+-0.457178
+-0.328858
+347
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+73 of 201
+240254421
+NC_003070.9
+-0.570713
+-0.460123
+348
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+74 of 201
+240254421
+NC_003070.9
+-0.519531
+-0.419565
+349
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+75 of 201
+240254421
+NC_003070.9
+-0.508684
+-0.392167
+350
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+76 of 201
+240254421
+NC_003070.9
+-0.491612
+-0.359256
+351
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+77 of 201
+240254421
+NC_003070.9
+-0.54076
+-0.401826
+352
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+78 of 201
+240254421
+NC_003070.9
+-0.602879
+-0.457787
+353
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+79 of 201
+240254421
+NC_003070.9
+-0.495066
+-0.405958
+354
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+80 of 201
+240254421
+NC_003070.9
+-0.461169
+-0.388308
+355
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+81 of 201
+240254421
+NC_003070.9
+-0.501076
+-0.416153
+356
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+82 of 201
+240254421
+NC_003070.9
+-0.511099
+-0.427496
+357
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+83 of 201
+240254421
+NC_003070.9
+-0.509297
+-0.418094
+358
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+84 of 201
+240254421
+NC_003070.9
+-0.501253
+-0.340628
+359
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+85 of 201
+240254421
+NC_003070.9
+-0.518538
+-0.416397
+360
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+86 of 201
+240254421
+NC_003070.9
+-0.522601
+-0.436057
+361
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+87 of 201
+240254421
+NC_003070.9
+-0.539459
+-0.435024
+362
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+88 of 201
+240254421
+NC_003070.9
+-0.578183
+-0.457296
+363
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+89 of 201
+240254421
+NC_003070.9
+-0.546207
+-0.492535
+364
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+90 of 201
+240254421
+NC_003070.9
+-0.424966
+-0.400839
+365
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+91 of 201
+240254421
+NC_003070.9
+-0.40102
+-0.311487
+366
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+92 of 201
+240254421
+NC_003070.9
+-0.443585
+-0.397123
+367
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+93 of 201
+240254421
+NC_003070.9
+-0.42133
+-0.340657
+368
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+94 of 201
+240254421
+NC_003070.9
+-0.328488
+-0.300371
+369
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+95 of 201
+240254421
+NC_003070.9
+-0.27063
+-0.253215
+370
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+96 of 201
+240254421
+NC_003070.9
+-0.183002
+-0.154384
+371
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+97 of 201
+240254421
+NC_003070.9
+-0.176919
+-0.16411
+372
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+98 of 201
+240254421
+NC_003070.9
+-0.21792
+-0.18062
+373
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+99 of 201
+240254421
+NC_003070.9
+-0.189555
+-0.0916173
+374
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+100 of 201
+240254421
+NC_003070.9
+-0.173665
+0.0697354
+375
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+101 of 201
+240254421
+NC_003070.9
+-0.178034
+0.0158092
+376
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+102 of 201
+240254421
+NC_003070.9
+-0.184424
+-0.164828
+377
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+103 of 201
+240254421
+NC_003070.9
+-0.333035
+-0.296492
+378
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+104 of 201
+240254421
+NC_003070.9
+-0.407474
+-0.377028
+379
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+105 of 201
+240254421
+NC_003070.9
+-0.481571
+-0.392943
+380
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+106 of 201
+240254421
+NC_003070.9
+-0.497907
+-0.422726
+381
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+107 of 201
+240254421
+NC_003070.9
+-0.548641
+-0.453727
+382
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+108 of 201
+240254421
+NC_003070.9
+-0.476016
+-0.385475
+383
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+109 of 201
+240254421
+NC_003070.9
+-0.439213
+-0.359938
+384
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+110 of 201
+240254421
+NC_003070.9
+-0.53914
+-0.422895
+385
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+111 of 201
+240254421
+NC_003070.9
+-0.633509
+-0.521944
+386
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+112 of 201
+240254421
+NC_003070.9
+-0.501201
+-0.418233
+387
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+113 of 201
+240254421
+NC_003070.9
+-0.545597
+-0.444897
+388
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+114 of 201
+240254421
+NC_003070.9
+-0.532748
+-0.39628
+389
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+115 of 201
+240254421
+NC_003070.9
+-0.533236
+-0.443959
+390
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+116 of 201
+240254421
+NC_003070.9
+-0.544044
+-0.439225
+391
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+117 of 201
+240254421
+NC_003070.9
+-0.440792
+-0.371965
+392
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+118 of 201
+240254421
+NC_003070.9
+-0.368707
+-0.320312
+393
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+119 of 201
+240254421
+NC_003070.9
+-0.472349
+-0.363521
+394
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+120 of 201
+240254421
+NC_003070.9
+-0.526813
+-0.439011
+395
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+121 of 201
+240254421
+NC_003070.9
+-0.503092
+-0.38586
+396
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+122 of 201
+240254421
+NC_003070.9
+-0.400641
+-0.366633
+397
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+123 of 201
+240254421
+NC_003070.9
+-0.419262
+-0.360481
+398
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+124 of 201
+240254421
+NC_003070.9
+-0.493756
+-0.418738
+399
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+125 of 201
+240254421
+NC_003070.9
+-0.555568
+-0.431275
+400
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+126 of 201
+240254421
+NC_003070.9
+-0.425414
+-0.358871
+401
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+127 of 201
+240254421
+NC_003070.9
+-0.558016
+-0.460243
+402
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+128 of 201
+240254421
+NC_003070.9
+-0.55548
+-0.45169
+403
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+129 of 201
+240254421
+NC_003070.9
+-0.495451
+-0.408448
+404
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+130 of 201
+240254421
+NC_003070.9
+-0.582775
+-0.428451
+405
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+131 of 201
+240254421
+NC_003070.9
+-0.491038
+-0.39678
+406
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+132 of 201
+240254421
+NC_003070.9
+-0.449324
+-0.341688
+407
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+133 of 201
+240254421
+NC_003070.9
+-0.52584
+-0.390397
+408
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+134 of 201
+240254421
+NC_003070.9
+-0.42843
+-0.382836
+409
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+135 of 201
+240254421
+NC_003070.9
+-0.532704
+-0.431056
+410
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+136 of 201
+240254421
+NC_003070.9
+-0.387723
+-0.344128
+411
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+137 of 201
+240254421
+NC_003070.9
+-0.428604
+-0.34013
+412
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+138 of 201
+240254421
+NC_003070.9
+-0.312033
+-0.283123
+413
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+139 of 201
+240254421
+NC_003070.9
+-0.566424
+-0.447091
+414
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+140 of 201
+240254421
+NC_003070.9
+-0.489481
+-0.383329
+415
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+141 of 201
+240254421
+NC_003070.9
+-0.497238
+-0.421584
+416
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+142 of 201
+240254421
+NC_003070.9
+-0.408226
+-0.377872
+417
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+143 of 201
+240254421
+NC_003070.9
+-0.55198
+-0.460807
+418
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+144 of 201
+240254421
+NC_003070.9
+-0.469785
+-0.375783
+419
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+145 of 201
+240254421
+NC_003070.9
+-0.512108
+-0.457625
+420
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+146 of 201
+240254421
+NC_003070.9
+-0.520817
+-0.449337
+421
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+147 of 201
+240254421
+NC_003070.9
+-0.417899
+-0.335234
+422
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+148 of 201
+240254421
+NC_003070.9
+-0.459407
+-0.40468
+423
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+149 of 201
+240254421
+NC_003070.9
+-0.480892
+-0.403836
+424
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+150 of 201
+240254421
+NC_003070.9
+-0.497484
+-0.40598
+425
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+151 of 201
+240254421
+NC_003070.9
+-0.53105
+-0.402848
+426
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+152 of 201
+240254421
+NC_003070.9
+-0.548778
+-0.413869
+427
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+153 of 201
+240254421
+NC_003070.9
+-0.543935
+-0.401246
+428
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+154 of 201
+240254421
+NC_003070.9
+-0.537415
+-0.390135
+429
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+155 of 201
+240254421
+NC_003070.9
+-0.465532
+-0.377952
+430
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+156 of 201
+240254421
+NC_003070.9
+-0.442848
+-0.354533
+431
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+157 of 201
+240254421
+NC_003070.9
+-0.453793
+-0.298396
+432
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+158 of 201
+240254421
+NC_003070.9
+-0.473059
+-0.381746
+433
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+159 of 201
+240254421
+NC_003070.9
+-0.371736
+-0.342478
+434
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+160 of 201
+240254421
+NC_003070.9
+-0.404189
+-0.341745
+435
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+161 of 201
+240254421
+NC_003070.9
+-0.533109
+-0.444235
+436
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+162 of 201
+240254421
+NC_003070.9
+-0.552854
+-0.43427
+437
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+163 of 201
+240254421
+NC_003070.9
+-0.614988
+-0.476168
+438
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+164 of 201
+240254421
+NC_003070.9
+-0.561118
+-0.43116
+439
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+165 of 201
+240254421
+NC_003070.9
+-0.535782
+-0.433895
+440
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+166 of 201
+240254421
+NC_003070.9
+-0.429435
+-0.423724
+441
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+167 of 201
+240254421
+NC_003070.9
+-0.410682
+-0.342705
+442
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+168 of 201
+240254421
+NC_003070.9
+-0.423278
+-0.358906
+443
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+169 of 201
+240254421
+NC_003070.9
+-0.565156
+-0.455795
+444
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+170 of 201
+240254421
+NC_003070.9
+-0.555515
+-0.462771
+445
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+171 of 201
+240254421
+NC_003070.9
+-0.487542
+-0.438289
+446
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+172 of 201
+240254421
+NC_003070.9
+-0.462536
+-0.378715
+447
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+173 of 201
+240254421
+NC_003070.9
+-0.541209
+-0.438157
+448
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+174 of 201
+240254421
+NC_003070.9
+-0.532368
+-0.400633
+449
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+175 of 201
+240254421
+NC_003070.9
+-0.472614
+-0.351913
+450
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+176 of 201
+240254421
+NC_003070.9
+-0.485885
+-0.355153
+451
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+177 of 201
+240254421
+NC_003070.9
+-0.443275
+-0.351229
+452
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+178 of 201
+240254421
+NC_003070.9
+-0.389115
+-0.32364
+453
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+179 of 201
+240254421
+NC_003070.9
+-0.493728
+-0.377782
+454
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+180 of 201
+240254421
+NC_003070.9
+-0.426058
+-0.330861
+455
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+181 of 201
+240254421
+NC_003070.9
+-0.359961
+-0.302654
+456
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+182 of 201
+240254421
+NC_003070.9
+-0.380989
+-0.300859
+457
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+183 of 201
+240254421
+NC_003070.9
+-0.475477
+-0.37539
+458
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+184 of 201
+240254421
+NC_003070.9
+-0.348258
+-0.291897
+459
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+185 of 201
+240254421
+NC_003070.9
+-0.398567
+-0.328215
+460
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+186 of 201
+240254421
+NC_003070.9
+-0.360609
+-0.261359
+461
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+187 of 201
+240254421
+NC_003070.9
+-0.500349
+-0.39445
+462
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+188 of 201
+240254421
+NC_003070.9
+-0.526741
+-0.375404
+463
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+189 of 201
+240254421
+NC_003070.9
+-0.434909
+-0.288411
+464
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+190 of 201
+240254421
+NC_003070.9
+-0.441593
+-0.393255
+465
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+191 of 201
+240254421
+NC_003070.9
+-0.476972
+-0.395989
+466
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+192 of 201
+240254421
+NC_003070.9
+-0.35817
+-0.277677
+467
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+193 of 201
+240254421
+NC_003070.9
+-0.427135
+-0.33389
+468
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+194 of 201
+240254421
+NC_003070.9
+-0.548285
+-0.422872
+469
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+195 of 201
+240254421
+NC_003070.9
+-0.482301
+-0.343337
+470
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+196 of 201
+240254421
+NC_003070.9
+-0.365643
+-0.258607
+471
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+197 of 201
+240254421
+NC_003070.9
+-0.358956
+-0.273818
+472
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+198 of 201
+240254421
+NC_003070.9
+-0.313371
+-0.282984
+473
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+199 of 201
+240254421
+NC_003070.9
+-0.201911
+-0.237653
+474
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+200 of 201
+240254421
+NC_003070.9
+-0.358865
+-0.268222
+475
+NC_003070.9
+Arabidopsis thaliana chromosome 1, complete sequence
+150000
+201 of 201
+240254421
+NC_003070.9
+-0.96165
+-0.946693
+476
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+1 of 21
+258549241
+NC_004317.2
+-0.990665
+-0.968134
+477
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+2 of 21
+258549241
+NC_004317.2
+-1.
+-0.971026
+478
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+3 of 21
+258549241
+NC_004317.2
+-0.979386
+-0.972547
+479
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+4 of 21
+258549241
+NC_004317.2
+-0.98824
+-0.96594
+480
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+5 of 21
+258549241
+NC_004317.2
+-0.985279
+-0.981303
+481
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+6 of 21
+258549241
+NC_004317.2
+-0.975939
+-0.957759
+482
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+7 of 21
+258549241
+NC_004317.2
+-0.988404
+-0.969432
+483
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+8 of 21
+258549241
+NC_004317.2
+-0.979772
+-0.971434
+484
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+9 of 21
+258549241
+NC_004317.2
+-0.985325
+-0.96243
+485
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+10 of 21
+258549241
+NC_004317.2
+-0.984388
+-0.9925
+486
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+11 of 21
+258549241
+NC_004317.2
+-0.991239
+-0.97951
+487
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+12 of 21
+258549241
+NC_004317.2
+-0.98425
+-0.978313
+488
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+13 of 21
+258549241
+NC_004317.2
+-0.991397
+-0.969372
+489
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+14 of 21
+258549241
+NC_004317.2
+-0.986735
+-0.979043
+490
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+15 of 21
+258549241
+NC_004317.2
+-0.99064
+-0.985046
+491
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+16 of 21
+258549241
+NC_004317.2
+-0.997781
+-0.974323
+492
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+17 of 21
+258549241
+NC_004317.2
+-0.990671
+-0.977246
+493
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+18 of 21
+258549241
+NC_004317.2
+-0.990476
+-0.991451
+494
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+19 of 21
+258549241
+NC_004317.2
+-0.968519
+-0.968035
+495
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+20 of 21
+258549241
+NC_004317.2
+-0.983777
+-0.969612
+496
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14, complete sequence
+150000
+21 of 21
+258549241
+NC_004317.2
+-0.0470717
+-0.247233
+497
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+1 of 12
+397650687
+NC_018092.1
+-0.0871217
+-0.292947
+498
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+2 of 12
+397650687
+NC_018092.1
+-0.0828747
+-0.270853
+499
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+3 of 12
+397650687
+NC_018092.1
+-0.0319185
+-0.126658
+500
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+4 of 12
+397650687
+NC_018092.1
+-0.0378189
+-0.253897
+501
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+5 of 12
+397650687
+NC_018092.1
+-0.0899885
+-0.280738
+502
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+6 of 12
+397650687
+NC_018092.1
+-0.0861874
+-0.282881
+503
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+7 of 12
+397650687
+NC_018092.1
+-0.0896607
+-0.302608
+504
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+8 of 12
+397650687
+NC_018092.1
+-0.109448
+-0.336166
+505
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+9 of 12
+397650687
+NC_018092.1
+-0.0546346
+-0.268388
+506
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+10 of 12
+397650687
+NC_018092.1
+-0.0522786
+-0.24827
+507
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+11 of 12
+397650687
+NC_018092.1
+-0.092874
+-0.305269
+508
+NC_018092.1
+Pyrococcus furiosus COM1 chromosome, complete genome
+150000
+12 of 12
+397650687
+NC_018092.1

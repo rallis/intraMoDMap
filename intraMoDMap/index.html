@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Molecular Distance Maps (MoD Maps)</title>
+    <link rel="stylesheet" type="text/css" href="gmdm.css">
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script type="text/javascript" src="gmdm.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  </head>
+    <script>
+    $(function(){$("body").on("keydown", function (e) {var key = e.which || e.keyCode;
+            if (key == 13) {$("#drawmdm").click();}});});
+    </script>
+
+
+ <body>
+  
+<div id="sidemenu">
+  <div id="title">
+    <strong><em>Molecular Distance (MoD) Map</em></strong>
+  </div>
+
+  <div id="settings"> 
+    <strong>Please Select a Map!&#160;&#160;</strong>
+        <!-- <select id="loadfile"> 
+          </select> -->
+        </br></br>
+          <strong>Six Kingdoms</strong>: (<a href="https://docs.google.com/spreadsheets/d/17Ps2nDnyfhbH8GqxGwm6o7sn5stR_-PLHmb7DeFDIKU/edit?usp=sharing" target="_blank">Information</a>)</br>
+          <input type="radio" name="maptobeloaded" value="1" onclick="selectandloadXMLDoc(1);">DSSIM </br>
+          <input type="radio" name="maptobeloaded" value="2" onclick="selectandloadXMLDoc(2);">Descriptor   </br>
+          <input type="radio" name="maptobeloaded" value="3" onclick="selectandloadXMLDoc(3);">Euclidean    </br>
+          <input type="radio" name="maptobeloaded" value="4" onclick="selectandloadXMLDoc(4);">Manhattan    </br>
+          <input type="radio" name="maptobeloaded" value="5" onclick="selectandloadXMLDoc(5);">Pearson      </br>
+          <input type="radio" name="maptobeloaded" value="6" onclick="selectandloadXMLDoc(6);">Information  </br></br>
+          <strong>Hum/Chimp</strong>: (<a href="https://docs.google.com/spreadsheets/d/1b6ffEkyKXGEdXxfwyCC1qlTmIM_HptzZl8K87JKaCq4/edit?usp=sharing" target="_blank">Information</a>)</br>
+          <input type="radio" name="maptobeloaded" value="7" onclick="selectandloadXMLDoc(7);">DSSIM        </br>
+          <input type="radio" name="maptobeloaded" value="8" onclick="selectandloadXMLDoc(8);">Descriptor    </br>
+          <input type="radio" name="maptobeloaded" value="9" onclick="selectandloadXMLDoc(9);">Euclidean    </br>
+          <input type="radio" name="maptobeloaded" value="10" onclick="selectandloadXMLDoc(10);">Manhattan    </br>
+          <input type="radio" name="maptobeloaded" value="11" onclick="selectandloadXMLDoc(11);">Pearson     </br>
+          <input type="radio" name="maptobeloaded" value="12" onclick="selectandloadXMLDoc(12);">Information  </br></br>
+
+          <!-- <option value="5000">5000) Primates (62)</option> -->
+          
+
+    Show only one popup at a time: <input id="manyinfowindows" type="checkbox" onchange="checkForPopups();" unchecked><br/>
+          <div id="settingsaction">
+            <!-- <input type="submit" id="drawmdm" onclick="loadXMLDoc();" value="Draw MoD Map!"/> -->
+          </div>
+  </div>
+
+  <div id="tooltipinfo"> 
+    <!-- <div id="viewfile">Dataset Information: - </div> -->
+    <div id="fromHereToShow"><strong>From Point: - </strong></div>
+    <div id="toHereToShow"><strong>To Point: - </strong></div>
+    
+   <strong>Distance:</strong>
+   <input id="outputDist" type="text" value="" maxlength="10" size="10" disabled /><br/>
+    <div id="computeDist"></div>
+    <!-- <div id="searchinfo">
+      <strong>Search:&#160;&#160;&#160;</strong>
+      <input id="tosearch" type="text" onkeyup="startSearch();" onfocus="startSearch();" value="" maxlength="15" size="15" disabled />
+    </div> -->
+      
+    <!-- <div id="searchstatus"></div> -->
+
+    <p hidden id="temp" class="debug"></p>
+  </div>
+  <div id="compatibilityinfo">
+    <table>
+      <tr colspan="1">To view in the above "Distance" field the distance between any two points, click on a point on the map. In the popup window, click "From here" button and then click on a second point on the map. In the new popup window, click "To here" button.<input id="fromHere" maxlength="3" size="1" disabled style="visibility:hidden" />
+    <input id="toHere" maxlength="3" size="1" disabled style="visibility:hidden"/></tr>
+      <tr></tr>
+    </table>
+    
+    
+  </div>
+
+</div>
+  <div id="map-canvas" style="border:2px solid #000000;"></div>
+  <div id="mylegend"></div>
+
+ </body>
+</html>
+<!-- 
+style="visibility:hidden" -->

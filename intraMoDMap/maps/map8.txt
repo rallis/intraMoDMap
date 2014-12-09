@@ -1,0 +1,3624 @@
+234,168
+blue,red
+7
+Index,Acc,Name,Length,Fragment,GenID,Link
+blue,red
+H.sapiens (234), P.troglodytes (168)
+0.751969
+0.728417
+1
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+1 of 234
+224589813
+NC_000021.8
+0.404668
+0.823385
+2
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+2 of 234
+224589813
+NC_000021.8
+0.117744
+0.880564
+3
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+3 of 234
+224589813
+NC_000021.8
+0.750083
+0.762626
+4
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+4 of 234
+224589813
+NC_000021.8
+0.750507
+0.786085
+5
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+5 of 234
+224589813
+NC_000021.8
+0.84782
+0.681012
+6
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+6 of 234
+224589813
+NC_000021.8
+0.276115
+0.
+7
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+7 of 234
+224589813
+NC_000021.8
+0.497297
+0.438355
+8
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+8 of 234
+224589813
+NC_000021.8
+0.629571
+0.749452
+9
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+9 of 234
+224589813
+NC_000021.8
+0.320969
+0.547422
+10
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+10 of 234
+224589813
+NC_000021.8
+0.781264
+0.670475
+11
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+11 of 234
+224589813
+NC_000021.8
+0.845759
+0.75655
+12
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+12 of 234
+224589813
+NC_000021.8
+0.650428
+0.726399
+13
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+13 of 234
+224589813
+NC_000021.8
+0.78488
+0.770436
+14
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+14 of 234
+224589813
+NC_000021.8
+0.327683
+0.922631
+15
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+15 of 234
+224589813
+NC_000021.8
+0.264785
+0.625403
+16
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+16 of 234
+224589813
+NC_000021.8
+0.20503
+0.885793
+17
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+17 of 234
+224589813
+NC_000021.8
+0.748232
+0.755262
+18
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+18 of 234
+224589813
+NC_000021.8
+0.832576
+0.807166
+19
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+19 of 234
+224589813
+NC_000021.8
+0.864341
+0.816259
+20
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+20 of 234
+224589813
+NC_000021.8
+0.852144
+0.786498
+21
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+21 of 234
+224589813
+NC_000021.8
+0.839442
+0.781883
+22
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+22 of 234
+224589813
+NC_000021.8
+0.728022
+0.849871
+23
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+23 of 234
+224589813
+NC_000021.8
+0.79115
+0.836746
+24
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+24 of 234
+224589813
+NC_000021.8
+0.661353
+0.883796
+25
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+25 of 234
+224589813
+NC_000021.8
+0.749622
+0.861812
+26
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+26 of 234
+224589813
+NC_000021.8
+0.79187
+0.866858
+27
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+27 of 234
+224589813
+NC_000021.8
+0.80601
+0.796611
+28
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+28 of 234
+224589813
+NC_000021.8
+0.892527
+0.721851
+29
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+29 of 234
+224589813
+NC_000021.8
+0.817068
+0.738854
+30
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+30 of 234
+224589813
+NC_000021.8
+0.836882
+0.730467
+31
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+31 of 234
+224589813
+NC_000021.8
+0.943098
+0.719724
+32
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+32 of 234
+224589813
+NC_000021.8
+0.912255
+0.693641
+33
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+33 of 234
+224589813
+NC_000021.8
+0.90885
+0.712361
+34
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+34 of 234
+224589813
+NC_000021.8
+0.903966
+0.728015
+35
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+35 of 234
+224589813
+NC_000021.8
+0.88529
+0.754768
+36
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+36 of 234
+224589813
+NC_000021.8
+0.881658
+0.745288
+37
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+37 of 234
+224589813
+NC_000021.8
+0.698037
+0.720341
+38
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+38 of 234
+224589813
+NC_000021.8
+0.523484
+0.667122
+39
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+39 of 234
+224589813
+NC_000021.8
+0.438032
+0.698831
+40
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+40 of 234
+224589813
+NC_000021.8
+0.627687
+0.818743
+41
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+41 of 234
+224589813
+NC_000021.8
+0.552459
+0.84429
+42
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+42 of 234
+224589813
+NC_000021.8
+0.678051
+0.824751
+43
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+43 of 234
+224589813
+NC_000021.8
+0.800336
+0.828063
+44
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+44 of 234
+224589813
+NC_000021.8
+0.846039
+0.776055
+45
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+45 of 234
+224589813
+NC_000021.8
+0.969715
+0.703948
+46
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+46 of 234
+224589813
+NC_000021.8
+0.935024
+0.73291
+47
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+47 of 234
+224589813
+NC_000021.8
+0.975988
+0.724163
+48
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+48 of 234
+224589813
+NC_000021.8
+0.795033
+0.798683
+49
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+49 of 234
+224589813
+NC_000021.8
+0.934141
+0.727962
+50
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+50 of 234
+224589813
+NC_000021.8
+0.858773
+0.760555
+51
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+51 of 234
+224589813
+NC_000021.8
+0.963246
+0.701975
+52
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+52 of 234
+224589813
+NC_000021.8
+0.95418
+0.68731
+53
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+53 of 234
+224589813
+NC_000021.8
+0.892995
+0.761884
+54
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+54 of 234
+224589813
+NC_000021.8
+0.952072
+0.699079
+55
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+55 of 234
+224589813
+NC_000021.8
+0.959848
+0.69266
+56
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+56 of 234
+224589813
+NC_000021.8
+0.871209
+0.710285
+57
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+57 of 234
+224589813
+NC_000021.8
+0.915262
+0.704763
+58
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+58 of 234
+224589813
+NC_000021.8
+0.953776
+0.690031
+59
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+59 of 234
+224589813
+NC_000021.8
+0.822027
+0.76998
+60
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+60 of 234
+224589813
+NC_000021.8
+0.895692
+0.70149
+61
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+61 of 234
+224589813
+NC_000021.8
+0.84455
+0.784498
+62
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+62 of 234
+224589813
+NC_000021.8
+0.935549
+0.732064
+63
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+63 of 234
+224589813
+NC_000021.8
+0.879871
+0.716063
+64
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+64 of 234
+224589813
+NC_000021.8
+1.
+0.681295
+65
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+65 of 234
+224589813
+NC_000021.8
+0.953466
+0.679925
+66
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+66 of 234
+224589813
+NC_000021.8
+0.980878
+0.648085
+67
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+67 of 234
+224589813
+NC_000021.8
+0.961597
+0.721876
+68
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+68 of 234
+224589813
+NC_000021.8
+0.934377
+0.736912
+69
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+69 of 234
+224589813
+NC_000021.8
+0.848614
+0.754496
+70
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+70 of 234
+224589813
+NC_000021.8
+0.933515
+0.725471
+71
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+71 of 234
+224589813
+NC_000021.8
+0.975208
+0.696122
+72
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+72 of 234
+224589813
+NC_000021.8
+0.908204
+0.700407
+73
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+73 of 234
+224589813
+NC_000021.8
+0.87595
+0.674323
+74
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+74 of 234
+224589813
+NC_000021.8
+0.911144
+0.689929
+75
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+75 of 234
+224589813
+NC_000021.8
+0.909861
+0.701189
+76
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+76 of 234
+224589813
+NC_000021.8
+0.957428
+0.690782
+77
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+77 of 234
+224589813
+NC_000021.8
+0.986373
+0.670242
+78
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+78 of 234
+224589813
+NC_000021.8
+0.913397
+0.707178
+79
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+79 of 234
+224589813
+NC_000021.8
+0.956314
+0.669652
+80
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+80 of 234
+224589813
+NC_000021.8
+0.950651
+0.680146
+81
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+81 of 234
+224589813
+NC_000021.8
+0.768688
+0.740969
+82
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+82 of 234
+224589813
+NC_000021.8
+0.730416
+0.807965
+83
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+83 of 234
+224589813
+NC_000021.8
+0.94581
+0.736495
+84
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+84 of 234
+224589813
+NC_000021.8
+0.95427
+0.670944
+85
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+85 of 234
+224589813
+NC_000021.8
+0.947322
+0.699991
+86
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+86 of 234
+224589813
+NC_000021.8
+0.925472
+0.696885
+87
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+87 of 234
+224589813
+NC_000021.8
+0.908063
+0.722128
+88
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+88 of 234
+224589813
+NC_000021.8
+0.917534
+0.733121
+89
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+89 of 234
+224589813
+NC_000021.8
+0.827461
+0.770289
+90
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+90 of 234
+224589813
+NC_000021.8
+0.827168
+0.786391
+91
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+91 of 234
+224589813
+NC_000021.8
+0.916839
+0.749312
+92
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+92 of 234
+224589813
+NC_000021.8
+0.738272
+0.822892
+93
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+93 of 234
+224589813
+NC_000021.8
+0.649078
+0.861965
+94
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+94 of 234
+224589813
+NC_000021.8
+0.629021
+0.788344
+95
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+95 of 234
+224589813
+NC_000021.8
+0.466228
+0.859628
+96
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+96 of 234
+224589813
+NC_000021.8
+0.648116
+0.834287
+97
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+97 of 234
+224589813
+NC_000021.8
+0.519515
+0.857249
+98
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+98 of 234
+224589813
+NC_000021.8
+0.732189
+0.79722
+99
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+99 of 234
+224589813
+NC_000021.8
+0.706979
+0.884861
+100
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+100 of 234
+224589813
+NC_000021.8
+0.814763
+0.790648
+101
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+101 of 234
+224589813
+NC_000021.8
+0.71636
+0.845627
+102
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+102 of 234
+224589813
+NC_000021.8
+0.641888
+0.906822
+103
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+103 of 234
+224589813
+NC_000021.8
+0.817225
+0.821097
+104
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+104 of 234
+224589813
+NC_000021.8
+0.908444
+0.764563
+105
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+105 of 234
+224589813
+NC_000021.8
+0.860319
+0.787276
+106
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+106 of 234
+224589813
+NC_000021.8
+0.895791
+0.762472
+107
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+107 of 234
+224589813
+NC_000021.8
+0.890041
+0.756296
+108
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+108 of 234
+224589813
+NC_000021.8
+0.824675
+0.780235
+109
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+109 of 234
+224589813
+NC_000021.8
+0.845992
+0.760411
+110
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+110 of 234
+224589813
+NC_000021.8
+0.843354
+0.776241
+111
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+111 of 234
+224589813
+NC_000021.8
+0.851512
+0.80315
+112
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+112 of 234
+224589813
+NC_000021.8
+0.805455
+0.822051
+113
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+113 of 234
+224589813
+NC_000021.8
+0.773038
+0.833543
+114
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+114 of 234
+224589813
+NC_000021.8
+0.642303
+0.887037
+115
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+115 of 234
+224589813
+NC_000021.8
+0.684895
+0.826497
+116
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+116 of 234
+224589813
+NC_000021.8
+0.600338
+0.767627
+117
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+117 of 234
+224589813
+NC_000021.8
+0.549846
+0.822272
+118
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+118 of 234
+224589813
+NC_000021.8
+0.563855
+0.876458
+119
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+119 of 234
+224589813
+NC_000021.8
+0.557553
+0.867014
+120
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+120 of 234
+224589813
+NC_000021.8
+0.737094
+0.864699
+121
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+121 of 234
+224589813
+NC_000021.8
+0.731214
+0.849267
+122
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+122 of 234
+224589813
+NC_000021.8
+0.800643
+0.82582
+123
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+123 of 234
+224589813
+NC_000021.8
+0.827311
+0.804839
+124
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+124 of 234
+224589813
+NC_000021.8
+0.796949
+0.823629
+125
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+125 of 234
+224589813
+NC_000021.8
+0.846947
+0.820616
+126
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+126 of 234
+224589813
+NC_000021.8
+0.906968
+0.733322
+127
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+127 of 234
+224589813
+NC_000021.8
+0.849015
+0.7782
+128
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+128 of 234
+224589813
+NC_000021.8
+0.78184
+0.789728
+129
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+129 of 234
+224589813
+NC_000021.8
+0.603434
+0.872792
+130
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+130 of 234
+224589813
+NC_000021.8
+0.335909
+0.889248
+131
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+131 of 234
+224589813
+NC_000021.8
+0.295205
+0.865202
+132
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+132 of 234
+224589813
+NC_000021.8
+0.153228
+0.814316
+133
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+133 of 234
+224589813
+NC_000021.8
+0.0430889
+0.726296
+134
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+134 of 234
+224589813
+NC_000021.8
+0.436333
+0.797625
+135
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+135 of 234
+224589813
+NC_000021.8
+0.15284
+0.878912
+136
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+136 of 234
+224589813
+NC_000021.8
+0.0899251
+0.910965
+137
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+137 of 234
+224589813
+NC_000021.8
+0.336475
+0.903003
+138
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+138 of 234
+224589813
+NC_000021.8
+0.0222775
+0.949411
+139
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+139 of 234
+224589813
+NC_000021.8
+-0.060051
+0.843105
+140
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+140 of 234
+224589813
+NC_000021.8
+0.359522
+0.896607
+141
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+141 of 234
+224589813
+NC_000021.8
+0.555249
+0.823253
+142
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+142 of 234
+224589813
+NC_000021.8
+0.285927
+0.933309
+143
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+143 of 234
+224589813
+NC_000021.8
+-0.124469
+0.983866
+144
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+144 of 234
+224589813
+NC_000021.8
+0.13006
+0.876138
+145
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+145 of 234
+224589813
+NC_000021.8
+0.0825133
+0.763117
+146
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+146 of 234
+224589813
+NC_000021.8
+0.425188
+0.690752
+147
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+147 of 234
+224589813
+NC_000021.8
+0.538914
+0.642637
+148
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+148 of 234
+224589813
+NC_000021.8
+0.229758
+0.861406
+149
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+149 of 234
+224589813
+NC_000021.8
+0.170126
+0.88296
+150
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+150 of 234
+224589813
+NC_000021.8
+0.381373
+0.95411
+151
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+151 of 234
+224589813
+NC_000021.8
+0.267861
+0.963558
+152
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+152 of 234
+224589813
+NC_000021.8
+0.0732863
+0.885479
+153
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+153 of 234
+224589813
+NC_000021.8
+0.164396
+0.980846
+154
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+154 of 234
+224589813
+NC_000021.8
+0.126421
+0.97439
+155
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+155 of 234
+224589813
+NC_000021.8
+0.166761
+0.997635
+156
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+156 of 234
+224589813
+NC_000021.8
+0.310295
+0.989368
+157
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+157 of 234
+224589813
+NC_000021.8
+0.520301
+0.955983
+158
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+158 of 234
+224589813
+NC_000021.8
+0.534295
+0.946906
+159
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+159 of 234
+224589813
+NC_000021.8
+0.506686
+0.946075
+160
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+160 of 234
+224589813
+NC_000021.8
+0.537055
+0.94101
+161
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+161 of 234
+224589813
+NC_000021.8
+0.410769
+0.913059
+162
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+162 of 234
+224589813
+NC_000021.8
+0.356505
+0.91557
+163
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+163 of 234
+224589813
+NC_000021.8
+0.0980038
+0.83979
+164
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+164 of 234
+224589813
+NC_000021.8
+-0.0950149
+0.647408
+165
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+165 of 234
+224589813
+NC_000021.8
+0.116129
+0.609003
+166
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+166 of 234
+224589813
+NC_000021.8
+-0.0470857
+0.902478
+167
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+167 of 234
+224589813
+NC_000021.8
+-0.232442
+0.931063
+168
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+168 of 234
+224589813
+NC_000021.8
+0.140425
+0.916888
+169
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+169 of 234
+224589813
+NC_000021.8
+0.0552522
+0.784892
+170
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+170 of 234
+224589813
+NC_000021.8
+0.584592
+0.811276
+171
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+171 of 234
+224589813
+NC_000021.8
+0.220597
+0.815143
+172
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+172 of 234
+224589813
+NC_000021.8
+0.579187
+0.799769
+173
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+173 of 234
+224589813
+NC_000021.8
+0.254991
+0.928007
+174
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+174 of 234
+224589813
+NC_000021.8
+0.13855
+0.977409
+175
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+175 of 234
+224589813
+NC_000021.8
+0.318324
+0.997421
+176
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+176 of 234
+224589813
+NC_000021.8
+0.376669
+0.943978
+177
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+177 of 234
+224589813
+NC_000021.8
+0.52457
+0.923361
+178
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+178 of 234
+224589813
+NC_000021.8
+0.32779
+1.
+179
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+179 of 234
+224589813
+NC_000021.8
+0.386962
+0.936181
+180
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+180 of 234
+224589813
+NC_000021.8
+0.294216
+0.947631
+181
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+181 of 234
+224589813
+NC_000021.8
+0.171579
+0.933776
+182
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+182 of 234
+224589813
+NC_000021.8
+0.104211
+0.980413
+183
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+183 of 234
+224589813
+NC_000021.8
+-0.0719874
+0.954056
+184
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+184 of 234
+224589813
+NC_000021.8
+0.650577
+0.782425
+185
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+185 of 234
+224589813
+NC_000021.8
+0.2642
+0.720837
+186
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+186 of 234
+224589813
+NC_000021.8
+0.340627
+0.864499
+187
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+187 of 234
+224589813
+NC_000021.8
+0.138131
+0.964853
+188
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+188 of 234
+224589813
+NC_000021.8
+0.289553
+0.974266
+189
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+189 of 234
+224589813
+NC_000021.8
+0.181339
+0.971919
+190
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+190 of 234
+224589813
+NC_000021.8
+0.300376
+0.972422
+191
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+191 of 234
+224589813
+NC_000021.8
+0.510028
+0.922186
+192
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+192 of 234
+224589813
+NC_000021.8
+0.621027
+0.84905
+193
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+193 of 234
+224589813
+NC_000021.8
+0.522072
+0.853524
+194
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+194 of 234
+224589813
+NC_000021.8
+0.444466
+0.93053
+195
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+195 of 234
+224589813
+NC_000021.8
+0.339429
+0.937074
+196
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+196 of 234
+224589813
+NC_000021.8
+0.396108
+0.916769
+197
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+197 of 234
+224589813
+NC_000021.8
+-0.0603632
+0.979693
+198
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+198 of 234
+224589813
+NC_000021.8
+0.0285914
+0.975527
+199
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+199 of 234
+224589813
+NC_000021.8
+-0.179749
+0.938882
+200
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+200 of 234
+224589813
+NC_000021.8
+-0.218989
+0.906496
+201
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+201 of 234
+224589813
+NC_000021.8
+-0.493332
+0.926418
+202
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+202 of 234
+224589813
+NC_000021.8
+-0.292057
+0.924468
+203
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+203 of 234
+224589813
+NC_000021.8
+-0.490055
+0.909597
+204
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+204 of 234
+224589813
+NC_000021.8
+-0.406303
+0.892688
+205
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+205 of 234
+224589813
+NC_000021.8
+-0.350607
+0.928835
+206
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+206 of 234
+224589813
+NC_000021.8
+-0.28979
+0.962222
+207
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+207 of 234
+224589813
+NC_000021.8
+-0.474291
+0.847905
+208
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+208 of 234
+224589813
+NC_000021.8
+-0.478536
+0.796923
+209
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+209 of 234
+224589813
+NC_000021.8
+-0.185584
+0.71245
+210
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+210 of 234
+224589813
+NC_000021.8
+-0.600996
+0.818549
+211
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+211 of 234
+224589813
+NC_000021.8
+-0.85193
+0.741174
+212
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+212 of 234
+224589813
+NC_000021.8
+-0.763063
+0.804167
+213
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+213 of 234
+224589813
+NC_000021.8
+0.155147
+0.816549
+214
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+214 of 234
+224589813
+NC_000021.8
+-0.862887
+0.673801
+215
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+215 of 234
+224589813
+NC_000021.8
+-0.60848
+0.745084
+216
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+216 of 234
+224589813
+NC_000021.8
+-0.396987
+0.845696
+217
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+217 of 234
+224589813
+NC_000021.8
+-0.924015
+0.637132
+218
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+218 of 234
+224589813
+NC_000021.8
+-0.923624
+0.631666
+219
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+219 of 234
+224589813
+NC_000021.8
+-0.523391
+0.842736
+220
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+220 of 234
+224589813
+NC_000021.8
+-0.263712
+0.865413
+221
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+221 of 234
+224589813
+NC_000021.8
+-0.538398
+0.862729
+222
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+222 of 234
+224589813
+NC_000021.8
+-0.970911
+0.674939
+223
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+223 of 234
+224589813
+NC_000021.8
+-0.0891141
+0.96682
+224
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+224 of 234
+224589813
+NC_000021.8
+-0.472291
+0.896832
+225
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+225 of 234
+224589813
+NC_000021.8
+-1.
+0.652588
+226
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+226 of 234
+224589813
+NC_000021.8
+-0.741123
+0.724342
+227
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+227 of 234
+224589813
+NC_000021.8
+0.290823
+0.852596
+228
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+228 of 234
+224589813
+NC_000021.8
+-0.558601
+0.792357
+229
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+229 of 234
+224589813
+NC_000021.8
+-0.646775
+0.774084
+230
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+230 of 234
+224589813
+NC_000021.8
+-0.697313
+0.75236
+231
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+231 of 234
+224589813
+NC_000021.8
+-0.506935
+0.675197
+232
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+232 of 234
+224589813
+NC_000021.8
+-0.11855
+0.804206
+233
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+233 of 234
+224589813
+NC_000021.8
+0.0668023
+0.954677
+234
+NC_000021.8
+Homo sapiens chromosome 21, GRCh37.p13 Primary Assembly
+150000
+234 of 234
+224589813
+NC_000021.8
+-0.204659
+-0.967384
+235
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+1 of 168
+327554947
+NC_006492.3
+0.331971
+0.49763
+236
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+2 of 168
+327554947
+NC_006492.3
+0.502839
+-0.019763
+237
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+3 of 168
+327554947
+NC_006492.3
+0.402482
+0.716678
+238
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+4 of 168
+327554947
+NC_006492.3
+0.38066
+0.878576
+239
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+5 of 168
+327554947
+NC_006492.3
+0.724871
+0.817102
+240
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+6 of 168
+327554947
+NC_006492.3
+0.474229
+0.657643
+241
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+7 of 168
+327554947
+NC_006492.3
+0.635562
+0.850557
+242
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+8 of 168
+327554947
+NC_006492.3
+0.506878
+0.772451
+243
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+9 of 168
+327554947
+NC_006492.3
+0.0670325
+0.439935
+244
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+10 of 168
+327554947
+NC_006492.3
+-0.0197949
+0.357881
+245
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+11 of 168
+327554947
+NC_006492.3
+0.300093
+0.782058
+246
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+12 of 168
+327554947
+NC_006492.3
+0.587661
+0.721079
+247
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+13 of 168
+327554947
+NC_006492.3
+0.238592
+0.663375
+248
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+14 of 168
+327554947
+NC_006492.3
+0.348773
+0.694928
+249
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+15 of 168
+327554947
+NC_006492.3
+0.00317353
+0.927033
+250
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+16 of 168
+327554947
+NC_006492.3
+0.418669
+0.889344
+251
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+17 of 168
+327554947
+NC_006492.3
+0.492307
+0.885994
+252
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+18 of 168
+327554947
+NC_006492.3
+0.281404
+0.927047
+253
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+19 of 168
+327554947
+NC_006492.3
+0.10649
+0.658634
+254
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+20 of 168
+327554947
+NC_006492.3
+0.188982
+0.87942
+255
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+21 of 168
+327554947
+NC_006492.3
+0.681999
+0.751399
+256
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+22 of 168
+327554947
+NC_006492.3
+0.717711
+0.823018
+257
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+23 of 168
+327554947
+NC_006492.3
+0.564959
+0.746482
+258
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+24 of 168
+327554947
+NC_006492.3
+0.501822
+0.355442
+259
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+25 of 168
+327554947
+NC_006492.3
+0.478002
+0.664002
+260
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+26 of 168
+327554947
+NC_006492.3
+0.600392
+0.793317
+261
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+27 of 168
+327554947
+NC_006492.3
+0.647813
+0.878437
+262
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+28 of 168
+327554947
+NC_006492.3
+0.725518
+0.765709
+263
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+29 of 168
+327554947
+NC_006492.3
+0.486602
+0.872709
+264
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+30 of 168
+327554947
+NC_006492.3
+0.328951
+0.63646
+265
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+31 of 168
+327554947
+NC_006492.3
+0.712452
+0.840817
+266
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+32 of 168
+327554947
+NC_006492.3
+0.580215
+0.540428
+267
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+33 of 168
+327554947
+NC_006492.3
+0.722648
+0.831312
+268
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+34 of 168
+327554947
+NC_006492.3
+0.436015
+0.635307
+269
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+35 of 168
+327554947
+NC_006492.3
+0.685545
+0.86685
+270
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+36 of 168
+327554947
+NC_006492.3
+0.416923
+0.704292
+271
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+37 of 168
+327554947
+NC_006492.3
+0.044935
+0.433624
+272
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+38 of 168
+327554947
+NC_006492.3
+-0.0314979
+0.360829
+273
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+39 of 168
+327554947
+NC_006492.3
+0.3651
+0.799288
+274
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+40 of 168
+327554947
+NC_006492.3
+0.566344
+0.633139
+275
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+41 of 168
+327554947
+NC_006492.3
+0.616125
+0.659299
+276
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+42 of 168
+327554947
+NC_006492.3
+0.51872
+0.881236
+277
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+43 of 168
+327554947
+NC_006492.3
+0.566401
+0.871524
+278
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+44 of 168
+327554947
+NC_006492.3
+0.444539
+0.712593
+279
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+45 of 168
+327554947
+NC_006492.3
+0.828645
+0.700033
+280
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+46 of 168
+327554947
+NC_006492.3
+0.0713452
+0.0938109
+281
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+47 of 168
+327554947
+NC_006492.3
+0.323907
+0.508385
+282
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+48 of 168
+327554947
+NC_006492.3
+0.
+-1.
+283
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+49 of 168
+327554947
+NC_006492.3
+0.672981
+0.819472
+284
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+50 of 168
+327554947
+NC_006492.3
+-0.112072
+0.805426
+285
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+51 of 168
+327554947
+NC_006492.3
+0.0329087
+0.710184
+286
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+52 of 168
+327554947
+NC_006492.3
+0.287624
+0.720795
+287
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+53 of 168
+327554947
+NC_006492.3
+0.656094
+0.78184
+288
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+54 of 168
+327554947
+NC_006492.3
+0.59427
+0.794946
+289
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+55 of 168
+327554947
+NC_006492.3
+0.373981
+0.8188
+290
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+56 of 168
+327554947
+NC_006492.3
+0.611451
+0.69146
+291
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+57 of 168
+327554947
+NC_006492.3
+0.356326
+0.811049
+292
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+58 of 168
+327554947
+NC_006492.3
+0.625955
+0.772265
+293
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+59 of 168
+327554947
+NC_006492.3
+0.639957
+0.77804
+294
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+60 of 168
+327554947
+NC_006492.3
+0.339508
+0.813176
+295
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+61 of 168
+327554947
+NC_006492.3
+0.615112
+0.698737
+296
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+62 of 168
+327554947
+NC_006492.3
+0.375927
+0.828008
+297
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+63 of 168
+327554947
+NC_006492.3
+0.61242
+0.78562
+298
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+64 of 168
+327554947
+NC_006492.3
+0.64953
+0.797556
+299
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+65 of 168
+327554947
+NC_006492.3
+0.370056
+0.80116
+300
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+66 of 168
+327554947
+NC_006492.3
+0.545432
+0.72298
+301
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+67 of 168
+327554947
+NC_006492.3
+0.286171
+0.65633
+302
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+68 of 168
+327554947
+NC_006492.3
+0.178716
+0.830841
+303
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+69 of 168
+327554947
+NC_006492.3
+0.303846
+0.928076
+304
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+70 of 168
+327554947
+NC_006492.3
+0.47855
+0.888994
+305
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+71 of 168
+327554947
+NC_006492.3
+0.45917
+0.887677
+306
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+72 of 168
+327554947
+NC_006492.3
+-0.0474518
+0.889504
+307
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+73 of 168
+327554947
+NC_006492.3
+0.360289
+0.626118
+308
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+74 of 168
+327554947
+NC_006492.3
+0.443042
+0.877722
+309
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+75 of 168
+327554947
+NC_006492.3
+0.689349
+0.778257
+310
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+76 of 168
+327554947
+NC_006492.3
+0.642066
+0.885359
+311
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+77 of 168
+327554947
+NC_006492.3
+0.617358
+0.788936
+312
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+78 of 168
+327554947
+NC_006492.3
+0.481438
+0.687948
+313
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+79 of 168
+327554947
+NC_006492.3
+0.547968
+0.643116
+314
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+80 of 168
+327554947
+NC_006492.3
+0.555434
+0.647805
+315
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+81 of 168
+327554947
+NC_006492.3
+0.685237
+0.836463
+316
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+82 of 168
+327554947
+NC_006492.3
+0.670296
+0.797905
+317
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+83 of 168
+327554947
+NC_006492.3
+0.219307
+0.765301
+318
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+84 of 168
+327554947
+NC_006492.3
+0.68464
+0.724106
+319
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+85 of 168
+327554947
+NC_006492.3
+0.692964
+0.846613
+320
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+86 of 168
+327554947
+NC_006492.3
+0.676357
+0.827601
+321
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+87 of 168
+327554947
+NC_006492.3
+0.398752
+0.638281
+322
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+88 of 168
+327554947
+NC_006492.3
+0.736246
+0.854527
+323
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+89 of 168
+327554947
+NC_006492.3
+0.393017
+0.690662
+324
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+90 of 168
+327554947
+NC_006492.3
+0.0511608
+0.442535
+325
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+91 of 168
+327554947
+NC_006492.3
+-0.0392836
+0.372014
+326
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+92 of 168
+327554947
+NC_006492.3
+0.3818
+0.809098
+327
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+93 of 168
+327554947
+NC_006492.3
+0.616078
+0.684296
+328
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+94 of 168
+327554947
+NC_006492.3
+0.28316
+0.702443
+329
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+95 of 168
+327554947
+NC_006492.3
+0.317712
+0.761561
+330
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+96 of 168
+327554947
+NC_006492.3
+-0.014744
+0.565354
+331
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+97 of 168
+327554947
+NC_006492.3
+0.16869
+0.939725
+332
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+98 of 168
+327554947
+NC_006492.3
+0.465487
+0.888443
+333
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+99 of 168
+327554947
+NC_006492.3
+0.404912
+0.902277
+334
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+100 of 168
+327554947
+NC_006492.3
+0.132167
+0.726001
+335
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+101 of 168
+327554947
+NC_006492.3
+0.15894
+0.50778
+336
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+102 of 168
+327554947
+NC_006492.3
+0.365599
+0.781325
+337
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+103 of 168
+327554947
+NC_006492.3
+0.518474
+0.749851
+338
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+104 of 168
+327554947
+NC_006492.3
+0.400441
+0.797974
+339
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+105 of 168
+327554947
+NC_006492.3
+0.626912
+0.835717
+340
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+106 of 168
+327554947
+NC_006492.3
+0.749597
+0.811186
+341
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+107 of 168
+327554947
+NC_006492.3
+0.611217
+0.696627
+342
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+108 of 168
+327554947
+NC_006492.3
+0.466642
+0.847431
+343
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+109 of 168
+327554947
+NC_006492.3
+0.678316
+0.821683
+344
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+110 of 168
+327554947
+NC_006492.3
+0.728558
+0.77593
+345
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+111 of 168
+327554947
+NC_006492.3
+0.79482
+0.644157
+346
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+112 of 168
+327554947
+NC_006492.3
+0.721175
+0.764078
+347
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+113 of 168
+327554947
+NC_006492.3
+0.655838
+0.768679
+348
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+114 of 168
+327554947
+NC_006492.3
+0.711431
+0.810343
+349
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+115 of 168
+327554947
+NC_006492.3
+0.575189
+0.796017
+350
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+116 of 168
+327554947
+NC_006492.3
+0.610083
+0.824974
+351
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+117 of 168
+327554947
+NC_006492.3
+0.339562
+0.939857
+352
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+118 of 168
+327554947
+NC_006492.3
+0.635581
+0.755844
+353
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+119 of 168
+327554947
+NC_006492.3
+0.745887
+0.812066
+354
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+120 of 168
+327554947
+NC_006492.3
+0.597827
+0.296047
+355
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+121 of 168
+327554947
+NC_006492.3
+0.641491
+0.801118
+356
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+122 of 168
+327554947
+NC_006492.3
+0.673566
+0.74345
+357
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+123 of 168
+327554947
+NC_006492.3
+0.769797
+0.746523
+358
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+124 of 168
+327554947
+NC_006492.3
+0.544394
+0.851481
+359
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+125 of 168
+327554947
+NC_006492.3
+0.0799114
+0.800073
+360
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+126 of 168
+327554947
+NC_006492.3
+0.257854
+0.904949
+361
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+127 of 168
+327554947
+NC_006492.3
+0.569702
+0.773008
+362
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+128 of 168
+327554947
+NC_006492.3
+0.763927
+0.733535
+363
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+129 of 168
+327554947
+NC_006492.3
+0.643962
+0.815245
+364
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+130 of 168
+327554947
+NC_006492.3
+0.593129
+0.819893
+365
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+131 of 168
+327554947
+NC_006492.3
+0.679502
+0.773844
+366
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+132 of 168
+327554947
+NC_006492.3
+0.758091
+0.739671
+367
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+133 of 168
+327554947
+NC_006492.3
+0.643432
+0.773552
+368
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+134 of 168
+327554947
+NC_006492.3
+0.457887
+0.852739
+369
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+135 of 168
+327554947
+NC_006492.3
+0.556319
+0.836238
+370
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+136 of 168
+327554947
+NC_006492.3
+0.611654
+0.786424
+371
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+137 of 168
+327554947
+NC_006492.3
+0.565323
+0.818186
+372
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+138 of 168
+327554947
+NC_006492.3
+0.756523
+0.82478
+373
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+139 of 168
+327554947
+NC_006492.3
+0.686307
+0.839168
+374
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+140 of 168
+327554947
+NC_006492.3
+0.65834
+0.813738
+375
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+141 of 168
+327554947
+NC_006492.3
+0.382994
+0.796468
+376
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+142 of 168
+327554947
+NC_006492.3
+0.486851
+0.951265
+377
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+143 of 168
+327554947
+NC_006492.3
+0.689096
+0.740628
+378
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+144 of 168
+327554947
+NC_006492.3
+0.753348
+0.755376
+379
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+145 of 168
+327554947
+NC_006492.3
+0.718074
+0.755088
+380
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+146 of 168
+327554947
+NC_006492.3
+0.809877
+0.795699
+381
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+147 of 168
+327554947
+NC_006492.3
+0.520924
+0.839259
+382
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+148 of 168
+327554947
+NC_006492.3
+0.639673
+0.897785
+383
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+149 of 168
+327554947
+NC_006492.3
+0.758192
+0.785202
+384
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+150 of 168
+327554947
+NC_006492.3
+0.700651
+0.773911
+385
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+151 of 168
+327554947
+NC_006492.3
+0.649344
+0.791554
+386
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+152 of 168
+327554947
+NC_006492.3
+0.864852
+0.753103
+387
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+153 of 168
+327554947
+NC_006492.3
+0.608401
+0.85609
+388
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+154 of 168
+327554947
+NC_006492.3
+0.61163
+0.878224
+389
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+155 of 168
+327554947
+NC_006492.3
+0.86453
+0.758685
+390
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+156 of 168
+327554947
+NC_006492.3
+0.573872
+0.788299
+391
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+157 of 168
+327554947
+NC_006492.3
+0.577266
+0.699244
+392
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+158 of 168
+327554947
+NC_006492.3
+0.360585
+0.846847
+393
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+159 of 168
+327554947
+NC_006492.3
+0.4877
+0.784929
+394
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+160 of 168
+327554947
+NC_006492.3
+0.303027
+0.838628
+395
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+161 of 168
+327554947
+NC_006492.3
+0.236735
+0.81503
+396
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+162 of 168
+327554947
+NC_006492.3
+0.287426
+0.950926
+397
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+163 of 168
+327554947
+NC_006492.3
+0.284485
+0.914022
+398
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+164 of 168
+327554947
+NC_006492.3
+0.603054
+0.83666
+399
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+165 of 168
+327554947
+NC_006492.3
+0.581053
+0.750104
+400
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+166 of 168
+327554947
+NC_006492.3
+0.636497
+0.768129
+401
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+167 of 168
+327554947
+NC_006492.3
+0.309374
+0.820123
+402
+NC_006492.3
+Pan troglodytes chromosome Y, Pan_troglodytes-2.1.4
+150000
+168 of 168
+327554947
+NC_006492.3
