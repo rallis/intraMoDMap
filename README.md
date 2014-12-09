@@ -1,4 +1,4 @@
-intraMoDMap
+Intragenomic Molecular Distance Map
 ===========
 
-Intragenomic Molecular Distance Map  Available at http://www.csd.uwo.ca/MoDMap/interintra
+intraMoDMap - Available at http://www.csd.uwo.ca/MoDMap/interintra
