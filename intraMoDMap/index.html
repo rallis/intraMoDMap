@@ -5,13 +5,7 @@
     <link rel="stylesheet" type="text/css" href="gmdm.css">
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
     <script type="text/javascript" src="gmdm.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   </head>
-    <script>
-    $(function(){$("body").on("keydown", function (e) {var key = e.which || e.keyCode;
-            if (key == 13) {$("#drawmdm").click();}});});
-    </script>
-
 
  <body>
   
@@ -25,22 +19,28 @@
         </br></br>
           <strong>Six Kingdoms</strong>: (<a href="https://docs.google.com/spreadsheets/d/17Ps2nDnyfhbH8GqxGwm6o7sn5stR_-PLHmb7DeFDIKU/edit?usp=sharing" target="_blank">Information</a>)</br>
           <input type="radio" name="maptobeloaded" value="1" onclick="selectandloadXMLDoc(1);">DSSIM </br>
-          <input type="radio" name="maptobeloaded" value="2" onclick="selectandloadXMLDoc(2);">Descriptor   </br>
-          <input type="radio" name="maptobeloaded" value="3" onclick="selectandloadXMLDoc(3);">Euclidean    </br>
-          <input type="radio" name="maptobeloaded" value="4" onclick="selectandloadXMLDoc(4);">Manhattan    </br>
-          <input type="radio" name="maptobeloaded" value="5" onclick="selectandloadXMLDoc(5);">Pearson      </br>
+          <input type="radio" name="maptobeloaded" value="2" onclick="selectandloadXMLDoc(2);">Descriptor</br>
+          <input type="radio" name="maptobeloaded" value="3" onclick="selectandloadXMLDoc(3);">Euclidean </br>
+          <input type="radio" name="maptobeloaded" value="4" onclick="selectandloadXMLDoc(4);">Manhattan </br>
+          <input type="radio" name="maptobeloaded" value="5" onclick="selectandloadXMLDoc(5);">Pearson   </br>
           <input type="radio" name="maptobeloaded" value="6" onclick="selectandloadXMLDoc(6);">Information  </br></br>
-          <strong>Hum/Chimp</strong>: (<a href="https://docs.google.com/spreadsheets/d/1b6ffEkyKXGEdXxfwyCC1qlTmIM_HptzZl8K87JKaCq4/edit?usp=sharing" target="_blank">Information</a>)</br>
-          <input type="radio" name="maptobeloaded" value="7" onclick="selectandloadXMLDoc(7);">DSSIM        </br>
-          <input type="radio" name="maptobeloaded" value="8" onclick="selectandloadXMLDoc(8);">Descriptor    </br>
-          <input type="radio" name="maptobeloaded" value="9" onclick="selectandloadXMLDoc(9);">Euclidean    </br>
-          <input type="radio" name="maptobeloaded" value="10" onclick="selectandloadXMLDoc(10);">Manhattan    </br>
-          <input type="radio" name="maptobeloaded" value="11" onclick="selectandloadXMLDoc(11);">Pearson     </br>
+          <strong>Sampling</strong>: (<a href="https://docs.google.com/spreadsheets/d/1__wyP6aiTnlpBEbWESwM-oIG12H3dZ4lx8N1uQ7zosY/edit?usp=sharing" target="_blank">Information</a>)</br>
+          <input type="radio" name="maptobeloaded" value="13" onclick="selectandloadXMLDoc(13);">DSSIM </br>
+          <input type="radio" name="maptobeloaded" value="14" onclick="selectandloadXMLDoc(14);">Descriptor</br>
+          <input type="radio" name="maptobeloaded" value="15" onclick="selectandloadXMLDoc(15);">Euclidean </br>
+          <input type="radio" name="maptobeloaded" value="16" onclick="selectandloadXMLDoc(16);">Manhattan </br>
+          <input type="radio" name="maptobeloaded" value="17" onclick="selectandloadXMLDoc(17);">Pearson   </br>
+          <input type="radio" name="maptobeloaded" value="18" onclick="selectandloadXMLDoc(18);">Information  </br></br>
+          <strong>Hum/Mouse</strong>: (<a href="https://docs.google.com/spreadsheets/d/1gCO-fJ7ZtMxlwIO3XzVAXDxyh3YzlDblt-yedNvE_ms/edit#gid=0" target="_blank">Information</a>)</br>
+          <input type="radio" name="maptobeloaded" value="7" onclick="selectandloadXMLDoc(7);">DSSIM      </br>
+          <input type="radio" name="maptobeloaded" value="8" onclick="selectandloadXMLDoc(8);">Descriptor  </br>
+          <input type="radio" name="maptobeloaded" value="9" onclick="selectandloadXMLDoc(9);">Euclidean  </br>
+          <input type="radio" name="maptobeloaded" value="10" onclick="selectandloadXMLDoc(10);">Manhattan  </br>
+          <input type="radio" name="maptobeloaded" value="11" onclick="selectandloadXMLDoc(11);">Pearson   </br>
           <input type="radio" name="maptobeloaded" value="12" onclick="selectandloadXMLDoc(12);">Information  </br></br>
 
     Show only one popup at a time: <input id="manyinfowindows" type="checkbox" onchange="checkForPopups();" unchecked><br/>
           <div id="settingsaction">
-            <!-- <input type="submit" id="drawmdm" onclick="loadXMLDoc();" value="Draw MoD Map!"/> -->
           </div>
   </div>
 
@@ -51,13 +51,7 @@
    <strong>Distance:</strong>
    <input id="outputDist" type="text" value="" maxlength="10" size="10" disabled /><br/>
     <div id="computeDist"></div>
-    <!-- <div id="searchinfo">
-      <strong>Search:&#160;&#160;&#160;</strong>
-      <input id="tosearch" type="text" onkeyup="startSearch();" onfocus="startSearch();" value="" maxlength="15" size="15" disabled />
-    </div> -->
-      
-    <!-- <div id="searchstatus"></div> -->
-
+    
     <p hidden id="temp" class="debug"></p>
   </div>
   <div id="compatibilityinfo">

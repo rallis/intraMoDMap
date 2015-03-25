@@ -24,10 +24,7 @@ var globalPointsLabels;
 var legendColors, legendLabels;
 var dbg=false;  // if true shows many dbg msges
 var allAccessionNums, allNames; // contains all the accesion numbers and names for searching
-var map; 
-var excelsheets=[
-'https://docs.google.com/spreadsheets/d/17Ps2nDnyfhbH8GqxGwm6o7sn5stR_-PLHmb7DeFDIKU/edit?usp=sharing',
-'https://docs.google.com/spreadsheets/d/1b6ffEkyKXGEdXxfwyCC1qlTmIM_HptzZl8K87JKaCq4/edit?usp=sharing'];
+var map; // the google map itself
 
 var allCaptions=[
 'Model organisms from six Kingdoms; Number of genomic DNA sequences is 508; FCGR with k=9; DSSIM',
@@ -36,15 +33,21 @@ var allCaptions=[
 'Model organisms from six Kingdoms; Number of genomic DNA sequences is 508; FCGR with k=9; Manhattan',
 'Model organisms from six Kingdoms; Number of genomic DNA sequences is 508; FCGR with k=9; Pearson',
 'Model organisms from six Kingdoms; Number of genomic DNA sequences is 508; FCGR with k=9; Approx. Information',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; DSSIM',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; Descriptor',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; Euclidean',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; Manhattan',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; Pearson',
-'H.Sapiens and P.Troglodytes; Number of genomic DNA sequences is 402; FCGR with k=9; Approx. Information'];
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; DSSIM',
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; Descriptor',
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; Euclidean',
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; Manhattan',
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; Pearson',
+'Sampling from H.Sapiens and M.Musculus; Number of genomic DNA sequences is 450; FCGR with k=9; Approx. Information',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; DSSIM',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; Descriptor',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; Euclidean',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; Manhattan',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; Pearson',
+'Sampling from model organisms of six Kingdoms; Number of genomic DNA sequences is 526; FCGR with k=9; Approx. Information'
+];
 var allMarkers; // an array which holds all the markers
 var linePath; // global variable of the line A-B  
-//var globalAccessionNums=[""];
 var lastMarkerClicked;
 var allowOnlyOneInfoWindow;
 
@@ -94,8 +97,6 @@ function loadXMLDoc(){
       computeDist(true); // load dist file
     }
   }
-  //fileToLoad=document.getElementById("loadfile").value;
-  //fileToLoad=document.getElementsByName("maptobeloaded").value;  // new way
   xmlhttp.open("GET","maps/map"+fileToLoad+".txt",true);
   xmlhttp.send();
 }
@@ -146,8 +147,7 @@ function initialize() {
     streetViewControl: false, 
     mapTypeId: 'coordinate',
     mapTypeControlOptions: {
-      mapTypeIds: ['coordinate']//, google.maps.MapTypeId.ROADMAP],
-      //style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+      mapTypeIds: ['coordinate']
     }
   };
   map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
@@ -188,13 +188,27 @@ function initialize() {
                     titleInfoPart1 = "Point: " + pointToShow + "\n";
                     fromField='<input type="submit" id="from" onclick="put('+parseFloat(pointToShow-1)+',1,'+pointToShow+');" value="From here">&nbsp &nbsp';
                     toField='<input type="submit" id="to" onclick="put('+parseFloat(pointToShow-1)+',2,'+pointToShow+');" value="To here">';
-                    popupdata=popupdata+"<tr><td>"+namesOfLabels[k]+"</td><td><strong>"+globalPointsLabels[s][k]+"</strong></td></tr>";
-                    titleInfoPart1half="Fragment: "+globalPointsLabels[s][k]+"\n";
+
+                    if((fileToLoad>=7)&&(fileToLoad<=12)){
+                      popupdata=popupdata+"";
+                    }else{
+                      popupdata=popupdata+"<tr><td>"+namesOfLabels[k]+"</td><td><strong>"+globalPointsLabels[s][k]+"</strong></td></tr>";
+                    }
+
+                    if((fileToLoad>=7)&&(fileToLoad<=12)){
+                      titleInfoPart1half="";
+                    }else{
+                      titleInfoPart1half="Fragment: "+globalPointsLabels[s][k]+"\n";
+                    }
+
                     if((fileToLoad>=1)&&(fileToLoad<=6)){
                     	fcgrInfo='<tr><td>CGR</td><td><div id="fcgr'+globalPointsLabels[s][0]+'" class="fcgrImage"><a href="fcgrs/1/'+globalPointsLabels[s][0]+'.png" target="_blank"><img src="fcgrs/1/'+globalPointsLabels[s][0]+'.png" height="200" width="200px" alt="FCGR IMAGE NOT AVAILABLE" title="Click here to Zoom In"></a></div></td></tr>';	
                     }
                     if((fileToLoad>=7)&&(fileToLoad<=12)){
-                      fcgrInfo='<tr><td>CGR</td><td><div id="fcgr'+globalPointsLabels[s][0]+'" class="fcgrImage"><a href="fcgrs/2/'+globalPointsLabels[s][0]+'.png" target="_blank"><img src="fcgrs/2/'+globalPointsLabels[s][0]+'.png" height="200" width="200px" alt="FCGR IMAGE NOT AVAILABLE" title="Click here to Zoom In"></a></div></td></tr>';  
+                      fcgrInfo='<tr><td>CGR</td><td><div id="fcgr'+globalPointsLabels[s][0]+'" class="fcgrImage"><a href="fcgrs/4/'+globalPointsLabels[s][0]+'.png" target="_blank"><img src="fcgrs/4/'+globalPointsLabels[s][0]+'.png" height="200" width="200px" alt="FCGR IMAGE NOT AVAILABLE" title="Click here to Zoom In"></a></div></td></tr>';  
+                    }
+                    if((fileToLoad>=13)&&(fileToLoad<=18)){
+                      fcgrInfo='<tr><td>CGR</td><td><div id="fcgr'+globalPointsLabels[s][0]+'" class="fcgrImage"><a href="fcgrs/3/'+globalPointsLabels[s][0]+'.png" target="_blank"><img src="fcgrs/3/'+globalPointsLabels[s][0]+'.png" height="200" width="200px" alt="FCGR IMAGE NOT AVAILABLE" title="Click here to Zoom In"></a></div></td></tr>';  
                     }
                     
                   }else if(namesOfLabels[k]=="Link"){
@@ -224,10 +238,6 @@ function initialize() {
                           new google.maps.Size(11,11),   
                           new google.maps.Point(0, 0),
                           new google.maps.Point(5,5));
-              // gia newmarkers2 size=41,24  0,0  20,15
-              // gia newmarkers3 size=17,17  0,0  8,8
-              // gia newmarkers4 size=11,11  0,0  5,5
-              // gia newmarkers5 idia me 4
 
               marker = new google.maps.Marker({
                   position: new google.maps.LatLng(centerY, centerX),
@@ -252,13 +262,13 @@ function initialize() {
 
   // assign GLOBAL variables
   globalScaledPointsCoord=scaledPointsCoord; 
-  document.getElementById("settingsaction").innerHTML='';  
+  document.getElementById("settingsaction").innerHTML='';
   document.getElementById("fromHere").value="";
   document.getElementById("toHere").value="";
   document.getElementById("fromHereToShow").innerHTML="<strong>From Point: - </strong>";
   document.getElementById("toHereToShow").innerHTML="<strong>To Point: - </strong>";
   document.getElementById("outputDist").value="";
-
+  
   // MAKE LEGEND AND ADD IT in the map
   var legend = document.getElementById('mylegend');
   var tmpLegendsHTML=document.createElement('div');
@@ -291,10 +301,6 @@ function initialize() {
   });
   // Now attach the coordinate map type to the map's registry
   map.mapTypes.set('coordinate', coordinateMapType);
-
-  // add DOM event
-  // var btnZoom=document.getElementById("btnZoom");
-  // google.maps.event.addDomListener(btnZoom,'click',zoomTo);
 
   if(dbg){alert("end initialization..");}
 }
@@ -371,6 +377,7 @@ function computeDist(preload){
   }
 }
 
+
 function checkForPopups(){
 	if(document.getElementById("manyinfowindows").checked==false){
 		allowOnlyOneInfoWindow=false;
@@ -386,12 +393,4 @@ function selectandloadXMLDoc(id){
   fileToLoad=id;
   loadXMLDoc();
 }
-
-
-
-
-
-
-
-
 
