@@ -9,6 +9,7 @@
 % Rallis Karamichalis, Lila Kari, Stavros Konstantinidis, Steffen Kopecki
 % "An investigation into inter- and intragenomic variations of graphic 
 % genomic signatures"
+% DOI: 10.1186/s12859-015-0655-4 
 %
 % Kindly report any suggestions or corrections.
 %---------------------------------------------------------------------*/
