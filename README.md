@@ -1,4 +1,4 @@
-Intragenomic Molecular Distance Map
-===========
+Supplementary Material for "An investigation into inter- and intragenomic variations of graphic genomic signatures"
+======
 
-Use the MoDMap interactive webtool directly at http://www.csd.uwo.ca/MoDMap/interintra to explore the figures of "An investigation into inter- and intragenomic variations of graphic genomic signatures" by Rallis Karamichalis, Lila Kari, Stavros Konstantinidis and Steffen Kopecki.
+Rallis Karamichalis, Lila Kari, Stavros Konstantinidis and Steffen Kopecki: "An investigation of inter- and intragenomic variations of graphic genomic signatures", [BMC Bioinformatics, 16:246 (2015)](http://dx.doi.org/10.1186/s12859-015-0655-4)
